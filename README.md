@@ -5,7 +5,6 @@
 **Tools:** Python, Pandas, Matplotlib, Seaborn
 **Dataset:** 250 synthetic leads based on real BD experience
 
-Test 2
 ## Executive Summary
 
 Analysis of **250 B2B leads** generated over 14 months across
