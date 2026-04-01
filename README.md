@@ -1,7 +1,7 @@
 # Pharma Sales Pipeline Analysis
 ## Nurogen Healthcare Ltd. · August 2023 – September 2024
 
-**Author:** [Your Name]
+**Author:** Sri Harsha Gorantla
 **Tools:** Python, Pandas, Matplotlib, Seaborn
 **Dataset:** 250 synthetic leads based on real BD experience
 
