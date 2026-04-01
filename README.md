@@ -1,5 +1,5 @@
 # Pharma Sales Pipeline Analysis
-## Nurogen Healthcare Ltd. · August 2023 – September 2024
+# Nurogen Healthcare Ltd. · August 2023 – September 2024
 
 **Author:** Sri Harsha Gorantla
 **Tools:** Python, Pandas, Matplotlib, Seaborn
@@ -27,19 +27,16 @@ B2B pharmaceutical supply benchmarks (typically 55–70% at this stage).
 The active pipeline of **£6,017,500** represents significant
 potential future revenue if conversion rates hold.
 
----
-
 ## Finding 1 — Funnel Analysis
 
 The sales funnel reveals a critical drop-off point between
 the **Quoted** and **Negotiation** stages (-2% of quoted
 leads do not progress to negotiation).
-```
+
 Prospect    → Contacted   : Normal outreach progression
 Contacted   → Quoted      : Strong — prospects are engaging
-Quoted      → Negotiation : ⚠️  Largest drop-off (-2%)
+Quoted      → Negotiation : Largest drop-off (-2%)
 Negotiation → Closed Won  : Strong conversion once here
-```
 
 **What this means:** Prospects are willing to receive quotes
 but something is preventing them from entering negotiation.
@@ -50,8 +47,6 @@ quantities (500kg MOQ) being too high for smaller buyers.
 for first-time buyers. This reduces the commitment barrier
 and is likely to improve Quoted → Negotiation conversion.
 
----
-
 ## Finding 2 — Sector Performance
 
 **Best sector by revenue:** CDMO / Generic Manufacturer
@@ -59,7 +54,6 @@ and is likely to improve Quoted → Negotiation conversion.
 **Lowest performing sector:** Retail Pharmacy Chain
 
 ### Sector prioritisation matrix
-```
                     HIGH WIN RATE
                          │
          VOLUME PLAY     │    PRIORITY TARGET
@@ -74,14 +68,11 @@ LOW DEAL ────────────────┼──────�
           BD time)       │     but high reward)
                          │
                     LOW WIN RATE
-```
 
 **Strategic recommendation:** Focus outbound BD effort on
 **CDMO / Generic Manufacturer** — they generate the highest revenue
 per won deal. Reduce time spent on **Retail Pharmacy Chain** unless
 leads come inbound, as the return on BD effort is lowest here.
-
----
 
 ## Finding 3 — Lead Source Effectiveness
 
@@ -97,8 +88,6 @@ outperforms broadcast approaches like cold email.
 particularly targeting procurement managers and formulation
 scientists at CDMO and Licensed Specials companies.
 
----
-
 ## Finding 4 — Product Mix
 
 **Top product by revenue:** Film Coating Excipients
@@ -113,8 +102,6 @@ due to higher volume.
 track with dedicated sales materials. When a customer already
 buys Organic Chemicals, Film Coating is the natural upsell.
 
----
-
 ## Finding 5 — Seasonal Patterns
 
 **Busiest month (lead volume):** Jul 24
@@ -128,8 +115,6 @@ procurement cycles and post-financial-year budget releases.
 known peak months. Prepare quotes and marketing materials
 in advance so the team can respond faster when demand spikes.
 
----
-
 ## Summary Recommendations
 
 | Priority | Action | Expected Impact |
@@ -140,8 +125,6 @@ in advance so the team can respond faster when demand spikes.
 | 🟡 Medium | Pre-load BD before peak months | Capture procurement cycles |
 | 🟢 Low | Reduce CRO outreach | Redirect time to higher-value sectors |
 
----
-
 ## Technical Notes
 
 - Dataset: 250 synthetic leads generated in Python
@@ -150,8 +133,6 @@ in advance so the team can respond faster when demand spikes.
 - All analysis performed in Python (Pandas, NumPy)
 - Visualisations built with Matplotlib and Seaborn
 - Full reproducible code available in the notebook
-
----
 
 *This project demonstrates end-to-end data analysis:
 data generation → exploratory analysis → visualisation
