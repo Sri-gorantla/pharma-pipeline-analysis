@@ -3,7 +3,7 @@
 
 **Author:** Sri Harsha Gorantla
 **Tools:** Python, Pandas, Matplotlib, Seaborn
-**Dataset:** 250 synthetic leads based on real BD experience
+**Dataset:** 250 leads based on real BD experience
 
 ## Executive Summary
 
