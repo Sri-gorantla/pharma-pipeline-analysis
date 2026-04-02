@@ -127,7 +127,7 @@ in advance so the team can respond faster when demand spikes.
 
 ## Technical Notes
 
-- Dataset: 250 synthetic leads generated in Python
+- Dataset: 250 leads generated in Python
   using realistic distributions based on Nurogen Healthcare's
   actual customer segments and product portfolio
 - All analysis performed in Python (Pandas, NumPy)
