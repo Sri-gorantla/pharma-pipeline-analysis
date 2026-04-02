@@ -1,0 +1,251 @@
+customer_id,company_name,sector,region,lead_source,deal_id,product,deal_size_gbp,pipeline_stage,win_probability,outcome,created_date,follow_up_count,response_time_days,month_year,month_sort
+NHC-1160,Vantage Life Sciences,Hospital Pharmacy,Scotland,Trade Show,DEAL-1160,Oleochemicals / Lubricants,6900.0,Prospect,17,-1,2023-08-05,0,0,Aug 2023,2023-08
+NHC-1212,Crest Life Sciences,Retail Pharmacy Chain,North West England,Distributor,DEAL-1212,Organic Chemicals / Binders,19100.0,Negotiation,56,-1,2023-08-06,3,25,Aug 2023,2023-08
+NHC-1164,Altum Therapeutics,Retail Pharmacy Chain,London,LinkedIn Outreach,DEAL-1164,Oleochemicals / Lubricants,25500.0,Contacted,15,-1,2023-08-09,1,3,Aug 2023,2023-08
+NHC-1224,Orbis API Ltd,CDMO / Generic Manufacturer,South East England,Cold Email,DEAL-1224,Film Coating Excipients,90800.0,Closed Lost,6,0,2023-08-13,4,24,Aug 2023,2023-08
+NHC-1196,Syntek Biotech,Licensed Specials Manufacturer,Germany,LinkedIn Outreach,DEAL-1196,Oleochemicals / Lubricants,48000.0,Quoted,38,-1,2023-08-15,3,6,Aug 2023,2023-08
+NHC-1094,Nexus Healthcare,Retail Pharmacy Chain,Germany,Trade Show,DEAL-1094,Organic Chemicals / Binders,29500.0,Negotiation,61,-1,2023-08-16,3,11,Aug 2023,2023-08
+NHC-1000,Clarix Biologics,Retail Pharmacy Chain,London,LinkedIn Outreach,DEAL-1000,Film Coating Excipients,36500.0,Negotiation,54,-1,2023-08-16,3,17,Aug 2023,2023-08
+NHC-1203,Vitagen Chemicals,Licensed Specials Manufacturer,Wales,Cold Email,DEAL-1203,Film Coating Excipients,29300.0,Quoted,42,-1,2023-08-20,2,11,Aug 2023,2023-08
+NHC-1026,Crest Medical,Retail Pharmacy Chain,South East England,Referral,DEAL-1026,Oleochemicals / Lubricants,17900.0,Prospect,4,-1,2023-08-24,0,0,Aug 2023,2023-08
+NHC-1215,Syntek Medical,Hospital Pharmacy,Yorkshire,Cold Email,DEAL-1215,Organic Chemicals / Binders,29100.0,Negotiation,67,-1,2023-08-24,3,14,Aug 2023,2023-08
+NHC-1158,Centrix Biotech,Nutraceutical Producer,Republic of Ireland,Distributor,DEAL-1158,Organic Chemicals / Binders,18500.0,Closed Won,97,1,2023-08-24,5,18,Aug 2023,2023-08
+NHC-1216,Calibra API Ltd,CDMO / Generic Manufacturer,Yorkshire,Distributor,DEAL-1216,Film Coating Excipients,32700.0,Contacted,30,-1,2023-08-24,2,3,Aug 2023,2023-08
+NHC-1104,Orbis Formulations,Retail Pharmacy Chain,North West England,Referral,DEAL-1104,Organic Chemicals / Binders,22600.0,Contacted,29,-1,2023-08-25,2,2,Aug 2023,2023-08
+NHC-1211,Enovis Life Sciences,Nutraceutical Producer,Scotland,Trade Show,DEAL-1211,Film Coating Excipients,8500.0,Contacted,30,-1,2023-09-02,1,6,Sep 2023,2023-09
+NHC-1012,Calibra Biotech,Licensed Specials Manufacturer,South East England,LinkedIn Outreach,DEAL-1012,Oleochemicals / Lubricants,30100.0,Prospect,2,-1,2023-09-08,0,0,Sep 2023,2023-09
+NHC-1190,Pinnacle Labs,Hospital Pharmacy,Germany,Cold Email,DEAL-1190,Oleochemicals / Lubricants,25200.0,Negotiation,62,-1,2023-09-10,4,30,Sep 2023,2023-09
+NHC-1060,Helix Biotech,Contract Research Organisation,South East England,Website Enquiry,DEAL-1060,Oleochemicals / Lubricants,14300.0,Quoted,46,-1,2023-09-16,3,5,Sep 2023,2023-09
+NHC-1069,Clarix Sciences,Licensed Specials Manufacturer,Midlands,LinkedIn Outreach,DEAL-1069,Organic Chemicals / Binders,28100.0,Quoted,43,-1,2023-09-16,2,7,Sep 2023,2023-09
+NHC-1187,Syntek Pharma,CDMO / Generic Manufacturer,London,LinkedIn Outreach,DEAL-1187,Film Coating Excipients,50900.0,Negotiation,56,-1,2023-09-19,3,15,Sep 2023,2023-09
+NHC-1137,Zenith Biotech,Hospital Pharmacy,Republic of Ireland,Referral,DEAL-1137,Oleochemicals / Lubricants,24800.0,Contacted,26,-1,2023-09-20,1,8,Sep 2023,2023-09
+NHC-1171,Forma Pharma,CDMO / Generic Manufacturer,Germany,Referral,DEAL-1171,Film Coating Excipients,91200.0,Negotiation,58,-1,2023-09-23,4,23,Sep 2023,2023-09
+NHC-1210,Fortis Chemicals,Licensed Specials Manufacturer,Scotland,LinkedIn Outreach,DEAL-1210,Organic Chemicals / Binders,41700.0,Closed Won,100,1,2023-09-27,5,18,Sep 2023,2023-09
+NHC-1022,Fortis Therapeutics,CDMO / Generic Manufacturer,Scotland,Trade Show,DEAL-1022,Organic Chemicals / Binders,67400.0,Prospect,3,-1,2023-09-29,0,0,Sep 2023,2023-09
+NHC-1120,Vantage Nutraceuticals,Hospital Pharmacy,North West England,Distributor,DEAL-1120,Organic Chemicals / Binders,18400.0,Prospect,16,-1,2023-09-29,1,0,Sep 2023,2023-09
+NHC-1042,Meridian Biotech,CDMO / Generic Manufacturer,London,Referral,DEAL-1042,Organic Chemicals / Binders,80500.0,Negotiation,61,-1,2023-09-30,3,29,Sep 2023,2023-09
+NHC-1096,Fortis Biologics,CDMO / Generic Manufacturer,London,Referral,DEAL-1096,Oleochemicals / Lubricants,52400.0,Contacted,28,-1,2023-10-02,1,4,Oct 2023,2023-10
+NHC-1045,Helix Pharma,Licensed Specials Manufacturer,North West England,Distributor,DEAL-1045,Organic Chemicals / Binders,19100.0,Closed Won,100,1,2023-10-03,5,45,Oct 2023,2023-10
+NHC-1007,Kinara API Ltd,Hospital Pharmacy,Midlands,Website Enquiry,DEAL-1007,Mixed Excipient Bundle,9500.0,Contacted,30,-1,2023-10-18,1,7,Oct 2023,2023-10
+NHC-1107,Kinara Life Sciences,Licensed Specials Manufacturer,London,Cold Email,DEAL-1107,Film Coating Excipients,18400.0,Closed Won,100,1,2023-10-23,4,25,Oct 2023,2023-10
+NHC-1116,Meridian Formulations,Contract Research Organisation,South East England,Cold Email,DEAL-1116,Organic Chemicals / Binders,10000.0,Quoted,42,-1,2023-10-23,3,13,Oct 2023,2023-10
+NHC-1205,Clarix Biotech,Licensed Specials Manufacturer,South East England,Referral,DEAL-1205,Oleochemicals / Lubricants,26700.0,Contacted,18,-1,2023-10-24,1,8,Oct 2023,2023-10
+NHC-1131,Praxis Sciences,CDMO / Generic Manufacturer,North West England,Referral,DEAL-1131,Film Coating Excipients,76800.0,Closed Lost,7,0,2023-10-26,5,25,Oct 2023,2023-10
+NHC-1192,Syntek Chemicals,Contract Research Organisation,North West England,Trade Show,DEAL-1192,Film Coating Excipients,7000.0,Quoted,44,-1,2023-10-28,2,17,Oct 2023,2023-10
+NHC-1231,Calibra Life Sciences,Nutraceutical Producer,Scotland,Trade Show,DEAL-1231,Organic Chemicals / Binders,13900.0,Contacted,20,-1,2023-10-29,1,3,Oct 2023,2023-10
+NHC-1077,Solara Biotech,Hospital Pharmacy,London,Distributor,DEAL-1077,Organic Chemicals / Binders,11400.0,Contacted,28,-1,2023-10-30,1,9,Oct 2023,2023-10
+NHC-1249,Enovis Therapeutics,CDMO / Generic Manufacturer,London,Referral,DEAL-1249,Mixed Excipient Bundle,65800.0,Prospect,6,-1,2023-11-02,1,0,Nov 2023,2023-11
+NHC-1115,Altum Biotech,Nutraceutical Producer,London,Referral,DEAL-1115,Organic Chemicals / Binders,26500.0,Negotiation,57,-1,2023-11-04,4,10,Nov 2023,2023-11
+NHC-1188,Vitagen Formulations,Hospital Pharmacy,London,Referral,DEAL-1188,Oleochemicals / Lubricants,14700.0,Closed Won,100,1,2023-11-04,5,29,Nov 2023,2023-11
+NHC-1127,Altum Formulations,Retail Pharmacy Chain,Midlands,Trade Show,DEAL-1127,Oleochemicals / Lubricants,25000.0,Negotiation,56,-1,2023-11-13,4,24,Nov 2023,2023-11
+NHC-1124,Solara Pharma,CDMO / Generic Manufacturer,South East England,Distributor,DEAL-1124,Film Coating Excipients,80300.0,Negotiation,55,-1,2023-11-14,3,29,Nov 2023,2023-11
+NHC-1225,Helix Labs,Hospital Pharmacy,South East England,Trade Show,DEAL-1225,Oleochemicals / Lubricants,21800.0,Prospect,6,-1,2023-11-14,0,0,Nov 2023,2023-11
+NHC-1228,Meridian Healthcare,Contract Research Organisation,London,Distributor,DEAL-1228,Oleochemicals / Lubricants,3600.0,Closed Won,100,1,2023-11-16,6,43,Nov 2023,2023-11
+NHC-1003,Calibra Medical,Retail Pharmacy Chain,Netherlands,Website Enquiry,DEAL-1003,Oleochemicals / Lubricants,34700.0,Contacted,21,-1,2023-11-16,2,6,Nov 2023,2023-11
+NHC-1237,Pinnacle Formulations,CDMO / Generic Manufacturer,London,LinkedIn Outreach,DEAL-1237,Oleochemicals / Lubricants,91800.0,Prospect,15,-1,2023-11-19,0,0,Nov 2023,2023-11
+NHC-1073,Clarix Chemicals,Retail Pharmacy Chain,North West England,LinkedIn Outreach,DEAL-1073,Film Coating Excipients,23500.0,Prospect,11,-1,2023-11-19,1,0,Nov 2023,2023-11
+NHC-1027,Orbis Labs,Hospital Pharmacy,Germany,Cold Email,DEAL-1027,Organic Chemicals / Binders,8700.0,Contacted,17,-1,2023-11-21,2,4,Nov 2023,2023-11
+NHC-1086,Pinnacle Sciences,Hospital Pharmacy,London,Website Enquiry,DEAL-1086,Oleochemicals / Lubricants,16200.0,Contacted,26,-1,2023-11-22,1,9,Nov 2023,2023-11
+NHC-1021,Pinnacle API Ltd,Nutraceutical Producer,Midlands,Cold Email,DEAL-1021,Oleochemicals / Lubricants,21400.0,Contacted,21,-1,2023-11-22,2,5,Nov 2023,2023-11
+NHC-1111,Fortis Nutraceuticals,Hospital Pharmacy,Scotland,Cold Email,DEAL-1111,Oleochemicals / Lubricants,17100.0,Closed Won,100,1,2023-11-24,4,37,Nov 2023,2023-11
+NHC-1238,Fortis Biotech,Hospital Pharmacy,Republic of Ireland,LinkedIn Outreach,DEAL-1238,Oleochemicals / Lubricants,23100.0,Negotiation,60,-1,2023-11-26,3,14,Nov 2023,2023-11
+NHC-1248,Enovis Biologics,Hospital Pharmacy,South East England,Trade Show,DEAL-1248,Oleochemicals / Lubricants,10000.0,Closed Lost,0,0,2023-11-26,3,12,Nov 2023,2023-11
+NHC-1054,Elara Chemicals,Hospital Pharmacy,Midlands,Trade Show,DEAL-1054,Film Coating Excipients,28900.0,Negotiation,57,-1,2023-11-29,3,12,Nov 2023,2023-11
+NHC-1063,Fortis Pharma,Nutraceutical Producer,Yorkshire,Referral,DEAL-1063,Oleochemicals / Lubricants,21200.0,Closed Lost,3,0,2023-11-29,5,28,Nov 2023,2023-11
+NHC-1020,Clarix Labs,Licensed Specials Manufacturer,Germany,LinkedIn Outreach,DEAL-1020,Mixed Excipient Bundle,40700.0,Contacted,24,-1,2023-11-30,1,4,Nov 2023,2023-11
+NHC-1064,Helix Medical,CDMO / Generic Manufacturer,South East England,Distributor,DEAL-1064,Mixed Excipient Bundle,34300.0,Closed Won,98,1,2023-12-03,3,41,Dec 2023,2023-12
+NHC-1168,Solara Labs,Hospital Pharmacy,North West England,Website Enquiry,DEAL-1168,Film Coating Excipients,23500.0,Prospect,7,-1,2023-12-04,0,0,Dec 2023,2023-12
+NHC-1179,Enovis Formulations,Nutraceutical Producer,North West England,LinkedIn Outreach,DEAL-1179,Organic Chemicals / Binders,13900.0,Contacted,15,-1,2023-12-05,1,5,Dec 2023,2023-12
+NHC-1103,Crest Biotech,Contract Research Organisation,London,Referral,DEAL-1103,Organic Chemicals / Binders,4500.0,Contacted,20,-1,2023-12-06,2,4,Dec 2023,2023-12
+NHC-1159,Meridian Medical,Hospital Pharmacy,London,LinkedIn Outreach,DEAL-1159,Mixed Excipient Bundle,12500.0,Negotiation,66,-1,2023-12-07,4,30,Dec 2023,2023-12
+NHC-1039,Zenith Formulations,Licensed Specials Manufacturer,Yorkshire,Referral,DEAL-1039,Organic Chemicals / Binders,26200.0,Quoted,37,-1,2023-12-07,3,8,Dec 2023,2023-12
+NHC-1240,Orbis Therapeutics,Licensed Specials Manufacturer,London,LinkedIn Outreach,DEAL-1240,Organic Chemicals / Binders,37300.0,Closed Won,100,1,2023-12-09,2,24,Dec 2023,2023-12
+NHC-1130,Syntek Therapeutics,CDMO / Generic Manufacturer,Netherlands,Website Enquiry,DEAL-1130,Organic Chemicals / Binders,49900.0,Closed Lost,2,0,2023-12-12,2,14,Dec 2023,2023-12
+NHC-1184,Forma Medical,CDMO / Generic Manufacturer,Netherlands,Website Enquiry,DEAL-1184,Film Coating Excipients,67200.0,Prospect,5,-1,2023-12-14,0,0,Dec 2023,2023-12
+NHC-1017,Apex Medical,Nutraceutical Producer,Scotland,Distributor,DEAL-1017,Organic Chemicals / Binders,24000.0,Negotiation,63,-1,2023-12-14,3,27,Dec 2023,2023-12
+NHC-1177,Orbis Medical,CDMO / Generic Manufacturer,Germany,Cold Email,DEAL-1177,Organic Chemicals / Binders,50900.0,Quoted,39,-1,2023-12-19,2,19,Dec 2023,2023-12
+NHC-1244,Nexus Therapeutics,CDMO / Generic Manufacturer,London,Distributor,DEAL-1244,Organic Chemicals / Binders,36400.0,Quoted,38,-1,2023-12-20,2,16,Dec 2023,2023-12
+NHC-1001,Fortis API Ltd,Hospital Pharmacy,Scotland,Trade Show,DEAL-1001,Oleochemicals / Lubricants,26700.0,Quoted,44,-1,2023-12-21,3,11,Dec 2023,2023-12
+NHC-1143,Vitagen Life Sciences,Hospital Pharmacy,London,Trade Show,DEAL-1143,Organic Chemicals / Binders,29200.0,Negotiation,60,-1,2023-12-22,4,13,Dec 2023,2023-12
+NHC-1247,Praxis Chemicals,Hospital Pharmacy,South East England,Website Enquiry,DEAL-1247,Organic Chemicals / Binders,28900.0,Contacted,19,-1,2023-12-26,1,3,Dec 2023,2023-12
+NHC-1047,Clarix Healthcare,Retail Pharmacy Chain,North West England,Trade Show,DEAL-1047,Film Coating Excipients,35400.0,Contacted,22,-1,2023-12-26,2,8,Dec 2023,2023-12
+NHC-1074,Apex Labs,Retail Pharmacy Chain,Yorkshire,Trade Show,DEAL-1074,Organic Chemicals / Binders,17600.0,Contacted,27,-1,2023-12-27,2,7,Dec 2023,2023-12
+NHC-1229,Clarix API Ltd,CDMO / Generic Manufacturer,London,Trade Show,DEAL-1229,Organic Chemicals / Binders,61700.0,Prospect,17,-1,2023-12-27,0,0,Dec 2023,2023-12
+NHC-1140,Helix Nutraceuticals,Hospital Pharmacy,North West England,LinkedIn Outreach,DEAL-1140,Organic Chemicals / Binders,20000.0,Contacted,21,-1,2023-12-28,1,8,Dec 2023,2023-12
+NHC-1221,Vitagen Biologics,Contract Research Organisation,London,LinkedIn Outreach,DEAL-1221,Oleochemicals / Lubricants,13600.0,Closed Won,100,1,2023-12-29,4,20,Dec 2023,2023-12
+NHC-1200,Enovis Medical,Hospital Pharmacy,Netherlands,Trade Show,DEAL-1200,Oleochemicals / Lubricants,14000.0,Negotiation,59,-1,2023-12-29,3,14,Dec 2023,2023-12
+NHC-1199,Biopharma Chemicals,CDMO / Generic Manufacturer,Netherlands,Website Enquiry,DEAL-1199,Organic Chemicals / Binders,68900.0,Contacted,15,-1,2023-12-30,2,6,Dec 2023,2023-12
+NHC-1083,Enovis Labs,Licensed Specials Manufacturer,Midlands,LinkedIn Outreach,DEAL-1083,Film Coating Excipients,21700.0,Closed Lost,0,0,2023-12-30,2,32,Dec 2023,2023-12
+NHC-1141,Enovis Biotech,Hospital Pharmacy,London,LinkedIn Outreach,DEAL-1141,Organic Chemicals / Binders,6600.0,Contacted,29,-1,2024-01-01,2,9,Jan 2024,2024-01
+NHC-1125,Kinara Sciences,CDMO / Generic Manufacturer,London,Referral,DEAL-1125,Organic Chemicals / Binders,36000.0,Negotiation,55,-1,2024-01-02,3,23,Jan 2024,2024-01
+NHC-1129,Elara Therapeutics,Retail Pharmacy Chain,Wales,Cold Email,DEAL-1129,Mixed Excipient Bundle,32800.0,Negotiation,68,-1,2024-01-05,4,26,Jan 2024,2024-01
+NHC-1165,Altum Biologics,Contract Research Organisation,Midlands,Cold Email,DEAL-1165,Film Coating Excipients,9000.0,Closed Won,100,1,2024-01-06,3,32,Jan 2024,2024-01
+NHC-1076,Altum Healthcare,Contract Research Organisation,London,Referral,DEAL-1076,Mixed Excipient Bundle,6600.0,Negotiation,56,-1,2024-01-06,4,20,Jan 2024,2024-01
+NHC-1226,Crest Sciences,CDMO / Generic Manufacturer,Scotland,LinkedIn Outreach,DEAL-1226,Film Coating Excipients,49400.0,Prospect,4,-1,2024-01-09,1,0,Jan 2024,2024-01
+NHC-1052,Forma Labs,Licensed Specials Manufacturer,Wales,Distributor,DEAL-1052,Organic Chemicals / Binders,36600.0,Closed Won,96,1,2024-01-10,3,36,Jan 2024,2024-01
+NHC-1155,Vantage Labs,CDMO / Generic Manufacturer,Wales,Website Enquiry,DEAL-1155,Oleochemicals / Lubricants,80000.0,Quoted,48,-1,2024-01-13,2,14,Jan 2024,2024-01
+NHC-1157,Zenith Sciences,Hospital Pharmacy,Midlands,Website Enquiry,DEAL-1157,Film Coating Excipients,22400.0,Closed Won,100,1,2024-01-15,5,35,Jan 2024,2024-01
+NHC-1202,Centrix Life Sciences,CDMO / Generic Manufacturer,Republic of Ireland,LinkedIn Outreach,DEAL-1202,Film Coating Excipients,29000.0,Contacted,28,-1,2024-01-18,2,4,Jan 2024,2024-01
+NHC-1128,Vantage API Ltd,Hospital Pharmacy,Republic of Ireland,Trade Show,DEAL-1128,Film Coating Excipients,24000.0,Quoted,35,-1,2024-01-18,2,5,Jan 2024,2024-01
+NHC-1167,Pinnacle Therapeutics,Retail Pharmacy Chain,London,Referral,DEAL-1167,Mixed Excipient Bundle,12100.0,Closed Won,94,1,2024-01-19,4,17,Jan 2024,2024-01
+NHC-1102,Nexus Biotech,Hospital Pharmacy,Republic of Ireland,Trade Show,DEAL-1102,Oleochemicals / Lubricants,16000.0,Prospect,13,-1,2024-01-22,0,0,Jan 2024,2024-01
+NHC-1181,Apex Formulations,Hospital Pharmacy,London,LinkedIn Outreach,DEAL-1181,Film Coating Excipients,16900.0,Quoted,36,-1,2024-01-22,2,15,Jan 2024,2024-01
+NHC-1214,Elara Pharma,Contract Research Organisation,Wales,Trade Show,DEAL-1214,Film Coating Excipients,15400.0,Prospect,12,-1,2024-01-22,1,0,Jan 2024,2024-01
+NHC-1154,Vitagen API Ltd,Retail Pharmacy Chain,Midlands,Trade Show,DEAL-1154,Film Coating Excipients,15900.0,Negotiation,61,-1,2024-01-26,4,13,Jan 2024,2024-01
+NHC-1016,Centrix Healthcare,Hospital Pharmacy,Germany,LinkedIn Outreach,DEAL-1016,Mixed Excipient Bundle,6800.0,Negotiation,68,-1,2024-01-26,3,21,Jan 2024,2024-01
+NHC-1030,Centrix Biologics,Hospital Pharmacy,Midlands,Trade Show,DEAL-1030,Film Coating Excipients,5500.0,Closed Lost,0,0,2024-01-28,4,31,Jan 2024,2024-01
+NHC-1037,Apex Life Sciences,Nutraceutical Producer,South East England,Referral,DEAL-1037,Organic Chemicals / Binders,24700.0,Contacted,22,-1,2024-01-29,1,6,Jan 2024,2024-01
+NHC-1040,Biopharma Sciences,CDMO / Generic Manufacturer,Wales,Referral,DEAL-1040,Film Coating Excipients,93500.0,Closed Won,96,1,2024-02-01,3,37,Feb 2024,2024-02
+NHC-1139,Praxis Therapeutics,Retail Pharmacy Chain,London,Cold Email,DEAL-1139,Film Coating Excipients,11400.0,Negotiation,67,-1,2024-02-01,4,14,Feb 2024,2024-02
+NHC-1005,Meridian Labs,CDMO / Generic Manufacturer,North West England,Cold Email,DEAL-1005,Oleochemicals / Lubricants,75400.0,Prospect,3,-1,2024-02-02,1,0,Feb 2024,2024-02
+NHC-1241,Kinara Pharma,Licensed Specials Manufacturer,London,LinkedIn Outreach,DEAL-1241,Oleochemicals / Lubricants,28100.0,Quoted,40,-1,2024-02-02,3,9,Feb 2024,2024-02
+NHC-1170,Syntek Labs,CDMO / Generic Manufacturer,North West England,Trade Show,DEAL-1170,Film Coating Excipients,40500.0,Closed Won,99,1,2024-02-05,5,39,Feb 2024,2024-02
+NHC-1062,Solara Healthcare,Retail Pharmacy Chain,London,LinkedIn Outreach,DEAL-1062,Film Coating Excipients,15500.0,Closed Lost,0,0,2024-02-06,5,31,Feb 2024,2024-02
+NHC-1122,Lumex Chemicals,Hospital Pharmacy,London,Distributor,DEAL-1122,Oleochemicals / Lubricants,9500.0,Quoted,36,-1,2024-02-12,3,17,Feb 2024,2024-02
+NHC-1204,Crest Biologics,Retail Pharmacy Chain,North West England,LinkedIn Outreach,DEAL-1204,Film Coating Excipients,36100.0,Negotiation,55,-1,2024-02-13,3,15,Feb 2024,2024-02
+NHC-1234,Helix Sciences,Retail Pharmacy Chain,North West England,LinkedIn Outreach,DEAL-1234,Organic Chemicals / Binders,19800.0,Quoted,42,-1,2024-02-15,3,19,Feb 2024,2024-02
+NHC-1089,Pinnacle Medical,Retail Pharmacy Chain,South East England,Trade Show,DEAL-1089,Film Coating Excipients,29400.0,Quoted,40,-1,2024-02-16,2,6,Feb 2024,2024-02
+NHC-1013,Vantage Chemicals,Contract Research Organisation,Germany,LinkedIn Outreach,DEAL-1013,Oleochemicals / Lubricants,16500.0,Quoted,47,-1,2024-02-16,2,19,Feb 2024,2024-02
+NHC-1146,Kinara Biologics,CDMO / Generic Manufacturer,Yorkshire,Cold Email,DEAL-1146,Organic Chemicals / Binders,57900.0,Negotiation,57,-1,2024-02-17,4,21,Feb 2024,2024-02
+NHC-1031,Orbis Biologics,Hospital Pharmacy,South East England,Trade Show,DEAL-1031,Organic Chemicals / Binders,9100.0,Negotiation,68,-1,2024-02-18,3,30,Feb 2024,2024-02
+NHC-1098,Elara Biotech,CDMO / Generic Manufacturer,North West England,Referral,DEAL-1098,Organic Chemicals / Binders,65100.0,Quoted,34,-1,2024-02-20,3,18,Feb 2024,2024-02
+NHC-1024,Solara Biologics,Licensed Specials Manufacturer,London,Trade Show,DEAL-1024,Oleochemicals / Lubricants,50700.0,Contacted,26,-1,2024-02-23,2,6,Feb 2024,2024-02
+NHC-1053,Calibra Healthcare,Hospital Pharmacy,London,Referral,DEAL-1053,Organic Chemicals / Binders,18100.0,Closed Won,100,1,2024-02-26,5,40,Feb 2024,2024-02
+NHC-1011,Altum Labs,Retail Pharmacy Chain,Germany,LinkedIn Outreach,DEAL-1011,Organic Chemicals / Binders,11000.0,Quoted,33,-1,2024-02-27,3,6,Feb 2024,2024-02
+NHC-1236,Vantage Biotech,Licensed Specials Manufacturer,Republic of Ireland,Website Enquiry,DEAL-1236,Film Coating Excipients,20000.0,Closed Won,100,1,2024-02-29,4,36,Feb 2024,2024-02
+NHC-1191,Fortis Formulations,Licensed Specials Manufacturer,Scotland,LinkedIn Outreach,DEAL-1191,Oleochemicals / Lubricants,31700.0,Quoted,35,-1,2024-02-29,2,9,Feb 2024,2024-02
+NHC-1072,Zenith Medical,Contract Research Organisation,South East England,LinkedIn Outreach,DEAL-1072,Film Coating Excipients,17600.0,Negotiation,64,-1,2024-03-02,4,15,Mar 2024,2024-03
+NHC-1162,Helix Healthcare,Hospital Pharmacy,London,Cold Email,DEAL-1162,Organic Chemicals / Binders,8500.0,Closed Won,94,1,2024-03-07,3,23,Mar 2024,2024-03
+NHC-1142,Praxis Nutraceuticals,Hospital Pharmacy,London,Trade Show,DEAL-1142,Film Coating Excipients,14500.0,Closed Lost,0,0,2024-03-08,5,30,Mar 2024,2024-03
+NHC-1036,Pinnacle Biologics,Hospital Pharmacy,Midlands,Referral,DEAL-1036,Oleochemicals / Lubricants,18000.0,Prospect,10,-1,2024-03-11,1,0,Mar 2024,2024-03
+NHC-1009,Zenith Biologics,Licensed Specials Manufacturer,Germany,LinkedIn Outreach,DEAL-1009,Organic Chemicals / Binders,20600.0,Quoted,34,-1,2024-03-12,3,19,Mar 2024,2024-03
+NHC-1080,Helix Formulations,Contract Research Organisation,Midlands,Website Enquiry,DEAL-1080,Oleochemicals / Lubricants,12700.0,Closed Lost,4,0,2024-03-12,3,17,Mar 2024,2024-03
+NHC-1041,Enovis Healthcare,Licensed Specials Manufacturer,Netherlands,Cold Email,DEAL-1041,Organic Chemicals / Binders,49500.0,Prospect,17,-1,2024-03-13,1,0,Mar 2024,2024-03
+NHC-1109,Nexus Nutraceuticals,Hospital Pharmacy,Yorkshire,LinkedIn Outreach,DEAL-1109,Oleochemicals / Lubricants,28700.0,Negotiation,60,-1,2024-03-13,3,14,Mar 2024,2024-03
+NHC-1025,Apex Sciences,Retail Pharmacy Chain,Germany,Trade Show,DEAL-1025,Organic Chemicals / Binders,17200.0,Quoted,37,-1,2024-03-14,3,11,Mar 2024,2024-03
+NHC-1213,Elara Medical,Retail Pharmacy Chain,South East England,Trade Show,DEAL-1213,Film Coating Excipients,20100.0,Quoted,35,-1,2024-03-15,3,7,Mar 2024,2024-03
+NHC-1087,Nexus Sciences,Hospital Pharmacy,South East England,Trade Show,DEAL-1087,Mixed Excipient Bundle,27900.0,Prospect,6,-1,2024-03-17,1,0,Mar 2024,2024-03
+NHC-1079,Vitagen Healthcare,CDMO / Generic Manufacturer,Midlands,Trade Show,DEAL-1079,Film Coating Excipients,65400.0,Contacted,18,-1,2024-03-18,1,5,Mar 2024,2024-03
+NHC-1245,Elara Nutraceuticals,Hospital Pharmacy,Wales,LinkedIn Outreach,DEAL-1245,Film Coating Excipients,13700.0,Contacted,30,-1,2024-03-20,1,8,Mar 2024,2024-03
+NHC-1050,Forma Sciences,Contract Research Organisation,Yorkshire,Distributor,DEAL-1050,Film Coating Excipients,9200.0,Contacted,30,-1,2024-03-21,1,10,Mar 2024,2024-03
+NHC-1150,Orbis Nutraceuticals,CDMO / Generic Manufacturer,Scotland,Distributor,DEAL-1150,Organic Chemicals / Binders,48200.0,Contacted,18,-1,2024-03-22,2,4,Mar 2024,2024-03
+NHC-1175,Pinnacle Pharma,Contract Research Organisation,Midlands,Trade Show,DEAL-1175,Film Coating Excipients,17300.0,Closed Won,99,1,2024-03-24,5,15,Mar 2024,2024-03
+NHC-1148,Crest Formulations,CDMO / Generic Manufacturer,Scotland,Trade Show,DEAL-1148,Film Coating Excipients,31400.0,Prospect,15,-1,2024-03-24,1,0,Mar 2024,2024-03
+NHC-1209,Solara Sciences,Nutraceutical Producer,Republic of Ireland,LinkedIn Outreach,DEAL-1209,Oleochemicals / Lubricants,20200.0,Prospect,11,-1,2024-03-25,1,0,Mar 2024,2024-03
+NHC-1118,Fortis Medical,Hospital Pharmacy,South East England,Referral,DEAL-1118,Film Coating Excipients,14000.0,Quoted,41,-1,2024-03-26,2,10,Mar 2024,2024-03
+NHC-1046,Centrix Nutraceuticals,Hospital Pharmacy,Midlands,Website Enquiry,DEAL-1046,Organic Chemicals / Binders,28800.0,Negotiation,67,-1,2024-03-28,3,18,Mar 2024,2024-03
+NHC-1032,Orbis Sciences,CDMO / Generic Manufacturer,South East England,Referral,DEAL-1032,Film Coating Excipients,75900.0,Contacted,16,-1,2024-03-28,1,2,Mar 2024,2024-03
+NHC-1201,Lumex Life Sciences,Contract Research Organisation,Germany,LinkedIn Outreach,DEAL-1201,Oleochemicals / Lubricants,15800.0,Contacted,27,-1,2024-03-29,1,5,Mar 2024,2024-03
+NHC-1243,Pinnacle Chemicals,Licensed Specials Manufacturer,South East England,Cold Email,DEAL-1243,Organic Chemicals / Binders,53500.0,Negotiation,65,-1,2024-03-29,3,12,Mar 2024,2024-03
+NHC-1147,Syntek Sciences,Licensed Specials Manufacturer,Germany,Website Enquiry,DEAL-1147,Film Coating Excipients,26800.0,Negotiation,63,-1,2024-03-31,4,24,Mar 2024,2024-03
+NHC-1117,Kinara Therapeutics,Nutraceutical Producer,North West England,LinkedIn Outreach,DEAL-1117,Oleochemicals / Lubricants,7900.0,Closed Won,99,1,2024-04-01,2,23,Apr 2024,2024-04
+NHC-1114,Meridian Pharma,Retail Pharmacy Chain,London,Cold Email,DEAL-1114,Organic Chemicals / Binders,38900.0,Prospect,3,-1,2024-04-01,1,0,Apr 2024,2024-04
+NHC-1239,Pinnacle Life Sciences,Hospital Pharmacy,Germany,Website Enquiry,DEAL-1239,Oleochemicals / Lubricants,27500.0,Quoted,45,-1,2024-04-03,2,5,Apr 2024,2024-04
+NHC-1152,Kinara Medical,CDMO / Generic Manufacturer,South East England,LinkedIn Outreach,DEAL-1152,Organic Chemicals / Binders,56100.0,Contacted,21,-1,2024-04-07,2,4,Apr 2024,2024-04
+NHC-1193,Apex Therapeutics,CDMO / Generic Manufacturer,Germany,LinkedIn Outreach,DEAL-1193,Film Coating Excipients,80900.0,Negotiation,68,-1,2024-04-08,4,14,Apr 2024,2024-04
+NHC-1067,Apex Pharma,Retail Pharmacy Chain,Germany,Trade Show,DEAL-1067,Oleochemicals / Lubricants,40000.0,Negotiation,58,-1,2024-04-08,3,12,Apr 2024,2024-04
+NHC-1222,Forma Biotech,CDMO / Generic Manufacturer,London,Trade Show,DEAL-1222,Film Coating Excipients,21100.0,Prospect,12,-1,2024-04-08,1,0,Apr 2024,2024-04
+NHC-1092,Zenith Life Sciences,Nutraceutical Producer,South East England,Trade Show,DEAL-1092,Film Coating Excipients,25700.0,Closed Won,94,1,2024-04-11,5,23,Apr 2024,2024-04
+NHC-1088,Altum Medical,Hospital Pharmacy,Scotland,LinkedIn Outreach,DEAL-1088,Organic Chemicals / Binders,24800.0,Contacted,21,-1,2024-04-12,1,10,Apr 2024,2024-04
+NHC-1133,Altum Pharma,CDMO / Generic Manufacturer,Yorkshire,Distributor,DEAL-1133,Mixed Excipient Bundle,19300.0,Negotiation,70,-1,2024-04-14,3,13,Apr 2024,2024-04
+NHC-1099,Meridian API Ltd,CDMO / Generic Manufacturer,South East England,Referral,DEAL-1099,Film Coating Excipients,60500.0,Quoted,37,-1,2024-04-14,3,8,Apr 2024,2024-04
+NHC-1035,Centrix API Ltd,CDMO / Generic Manufacturer,Wales,Referral,DEAL-1035,Oleochemicals / Lubricants,21200.0,Prospect,5,-1,2024-04-16,0,0,Apr 2024,2024-04
+NHC-1014,Zenith Therapeutics,CDMO / Generic Manufacturer,South East England,Referral,DEAL-1014,Mixed Excipient Bundle,22400.0,Quoted,39,-1,2024-04-17,2,10,Apr 2024,2024-04
+NHC-1198,Lumex Medical,Retail Pharmacy Chain,Scotland,Website Enquiry,DEAL-1198,Film Coating Excipients,24700.0,Closed Won,100,1,2024-04-18,5,36,Apr 2024,2024-04
+NHC-1207,Solara Medical,CDMO / Generic Manufacturer,South East England,LinkedIn Outreach,DEAL-1207,Oleochemicals / Lubricants,58100.0,Negotiation,69,-1,2024-04-18,3,13,Apr 2024,2024-04
+NHC-1220,Syntek Life Sciences,CDMO / Generic Manufacturer,Wales,Trade Show,DEAL-1220,Film Coating Excipients,25900.0,Contacted,24,-1,2024-04-18,1,6,Apr 2024,2024-04
+NHC-1010,Vitagen Pharma,Licensed Specials Manufacturer,Yorkshire,LinkedIn Outreach,DEAL-1010,Film Coating Excipients,21800.0,Prospect,6,-1,2024-04-20,0,0,Apr 2024,2024-04
+NHC-1219,Centrix Medical,Hospital Pharmacy,Scotland,LinkedIn Outreach,DEAL-1219,Film Coating Excipients,22800.0,Contacted,15,-1,2024-04-24,1,3,Apr 2024,2024-04
+NHC-1110,Nexus Biologics,Licensed Specials Manufacturer,Wales,Website Enquiry,DEAL-1110,Mixed Excipient Bundle,17900.0,Negotiation,64,-1,2024-04-26,4,15,Apr 2024,2024-04
+NHC-1135,Pinnacle Healthcare,CDMO / Generic Manufacturer,Midlands,LinkedIn Outreach,DEAL-1135,Organic Chemicals / Binders,56500.0,Prospect,17,-1,2024-04-27,0,0,Apr 2024,2024-04
+NHC-1059,Praxis Biologics,Nutraceutical Producer,London,LinkedIn Outreach,DEAL-1059,Organic Chemicals / Binders,15100.0,Closed Lost,7,0,2024-04-28,3,34,Apr 2024,2024-04
+NHC-1161,Lumex Biotech,CDMO / Generic Manufacturer,Midlands,LinkedIn Outreach,DEAL-1161,Oleochemicals / Lubricants,47500.0,Contacted,20,-1,2024-04-28,1,2,Apr 2024,2024-04
+NHC-1227,Calibra Chemicals,Retail Pharmacy Chain,Yorkshire,LinkedIn Outreach,DEAL-1227,Oleochemicals / Lubricants,20600.0,Closed Lost,1,0,2024-04-30,4,33,Apr 2024,2024-04
+NHC-1232,Centrix Chemicals,Licensed Specials Manufacturer,Germany,LinkedIn Outreach,DEAL-1232,Film Coating Excipients,45100.0,Prospect,13,-1,2024-05-05,1,0,May 2024,2024-05
+NHC-1049,Biopharma API Ltd,Contract Research Organisation,Midlands,LinkedIn Outreach,DEAL-1049,Oleochemicals / Lubricants,6600.0,Closed Lost,6,0,2024-05-09,3,11,May 2024,2024-05
+NHC-1033,Apex Nutraceuticals,Nutraceutical Producer,Yorkshire,Distributor,DEAL-1033,Oleochemicals / Lubricants,9400.0,Prospect,7,-1,2024-05-15,0,0,May 2024,2024-05
+NHC-1055,Lumex Therapeutics,Hospital Pharmacy,Scotland,LinkedIn Outreach,DEAL-1055,Mixed Excipient Bundle,14400.0,Closed Won,100,1,2024-05-16,4,17,May 2024,2024-05
+NHC-1105,Syntek API Ltd,Licensed Specials Manufacturer,London,LinkedIn Outreach,DEAL-1105,Film Coating Excipients,29300.0,Contacted,16,-1,2024-05-18,1,10,May 2024,2024-05
+NHC-1169,Praxis Labs,Contract Research Organisation,Republic of Ireland,Distributor,DEAL-1169,Organic Chemicals / Binders,9200.0,Negotiation,59,-1,2024-05-19,3,26,May 2024,2024-05
+NHC-1189,Centrix Labs,CDMO / Generic Manufacturer,South East England,Cold Email,DEAL-1189,Film Coating Excipients,60600.0,Negotiation,55,-1,2024-05-20,4,19,May 2024,2024-05
+NHC-1095,Clarix Life Sciences,Retail Pharmacy Chain,Midlands,Referral,DEAL-1095,Organic Chemicals / Binders,38400.0,Quoted,40,-1,2024-05-20,2,16,May 2024,2024-05
+NHC-1075,Nexus Chemicals,CDMO / Generic Manufacturer,Midlands,Referral,DEAL-1075,Oleochemicals / Lubricants,19400.0,Closed Won,92,1,2024-05-20,3,18,May 2024,2024-05
+NHC-1121,Lumex Biologics,Nutraceutical Producer,Midlands,Referral,DEAL-1121,Organic Chemicals / Binders,6500.0,Prospect,4,-1,2024-05-23,0,0,May 2024,2024-05
+NHC-1019,Apex Healthcare,Retail Pharmacy Chain,South East England,Referral,DEAL-1019,Oleochemicals / Lubricants,10400.0,Quoted,41,-1,2024-05-25,3,9,May 2024,2024-05
+NHC-1051,Praxis API Ltd,Retail Pharmacy Chain,London,Cold Email,DEAL-1051,Film Coating Excipients,24200.0,Closed Won,100,1,2024-05-27,3,32,May 2024,2024-05
+NHC-1235,Centrix Formulations,CDMO / Generic Manufacturer,Netherlands,Trade Show,DEAL-1235,Organic Chemicals / Binders,61900.0,Negotiation,70,-1,2024-05-27,4,22,May 2024,2024-05
+NHC-1136,Clarix Pharma,Licensed Specials Manufacturer,Germany,Trade Show,DEAL-1136,Oleochemicals / Lubricants,19700.0,Quoted,39,-1,2024-05-27,2,17,May 2024,2024-05
+NHC-1070,Solara Chemicals,Nutraceutical Producer,North West England,Referral,DEAL-1070,Organic Chemicals / Binders,13800.0,Contacted,20,-1,2024-06-03,2,6,Jun 2024,2024-06
+NHC-1093,Praxis Healthcare,Retail Pharmacy Chain,London,Website Enquiry,DEAL-1093,Organic Chemicals / Binders,10600.0,Quoted,33,-1,2024-06-04,3,10,Jun 2024,2024-06
+NHC-1217,Clarix Nutraceuticals,CDMO / Generic Manufacturer,North West England,LinkedIn Outreach,DEAL-1217,Organic Chemicals / Binders,64700.0,Closed Lost,1,0,2024-06-07,5,18,Jun 2024,2024-06
+NHC-1071,Solara API Ltd,CDMO / Generic Manufacturer,North West England,Trade Show,DEAL-1071,Oleochemicals / Lubricants,39400.0,Quoted,41,-1,2024-06-07,2,5,Jun 2024,2024-06
+NHC-1061,Syntek Healthcare,Licensed Specials Manufacturer,Wales,Trade Show,DEAL-1061,Film Coating Excipients,41000.0,Negotiation,63,-1,2024-06-08,4,30,Jun 2024,2024-06
+NHC-1166,Crest Pharma,Hospital Pharmacy,Wales,Cold Email,DEAL-1166,Organic Chemicals / Binders,11100.0,Contacted,18,-1,2024-06-09,2,2,Jun 2024,2024-06
+NHC-1100,Fortis Labs,CDMO / Generic Manufacturer,Germany,Distributor,DEAL-1100,Film Coating Excipients,66900.0,Quoted,36,-1,2024-06-10,3,7,Jun 2024,2024-06
+NHC-1113,Elara Sciences,Licensed Specials Manufacturer,Midlands,Referral,DEAL-1113,Film Coating Excipients,52100.0,Contacted,21,-1,2024-06-11,1,5,Jun 2024,2024-06
+NHC-1101,Nexus Pharma,CDMO / Generic Manufacturer,Yorkshire,Trade Show,DEAL-1101,Mixed Excipient Bundle,24300.0,Closed Lost,1,0,2024-06-12,3,17,Jun 2024,2024-06
+NHC-1048,Clarix Formulations,Licensed Specials Manufacturer,Netherlands,Referral,DEAL-1048,Organic Chemicals / Binders,31900.0,Closed Lost,0,0,2024-06-14,3,16,Jun 2024,2024-06
+NHC-1218,Forma Biologics,Hospital Pharmacy,London,Cold Email,DEAL-1218,Organic Chemicals / Binders,28400.0,Negotiation,59,-1,2024-06-15,3,14,Jun 2024,2024-06
+NHC-1043,Altum Sciences,Retail Pharmacy Chain,Midlands,Trade Show,DEAL-1043,Mixed Excipient Bundle,26200.0,Quoted,37,-1,2024-06-16,2,13,Jun 2024,2024-06
+NHC-1078,Vitagen Therapeutics,Retail Pharmacy Chain,Germany,Distributor,DEAL-1078,Organic Chemicals / Binders,12800.0,Contacted,30,-1,2024-06-19,2,6,Jun 2024,2024-06
+NHC-1151,Biopharma Biotech,Licensed Specials Manufacturer,South East England,Trade Show,DEAL-1151,Film Coating Excipients,36700.0,Prospect,11,-1,2024-06-21,1,0,Jun 2024,2024-06
+NHC-1172,Forma Therapeutics,Retail Pharmacy Chain,London,Website Enquiry,DEAL-1172,Mixed Excipient Bundle,22700.0,Quoted,45,-1,2024-06-22,2,7,Jun 2024,2024-06
+NHC-1197,Apex API Ltd,Nutraceutical Producer,Yorkshire,Trade Show,DEAL-1197,Oleochemicals / Lubricants,27300.0,Contacted,23,-1,2024-06-27,1,4,Jun 2024,2024-06
+NHC-1206,Vitagen Sciences,CDMO / Generic Manufacturer,London,LinkedIn Outreach,DEAL-1206,Organic Chemicals / Binders,77400.0,Negotiation,66,-1,2024-06-30,3,13,Jun 2024,2024-06
+NHC-1068,Biopharma Formulations,CDMO / Generic Manufacturer,South East England,Referral,DEAL-1068,Organic Chemicals / Binders,40700.0,Contacted,27,-1,2024-07-01,1,10,Jul 2024,2024-07
+NHC-1108,Altum Nutraceuticals,Hospital Pharmacy,Scotland,Website Enquiry,DEAL-1108,Film Coating Excipients,12700.0,Contacted,30,-1,2024-07-01,2,5,Jul 2024,2024-07
+NHC-1015,Helix Chemicals,Licensed Specials Manufacturer,Netherlands,Referral,DEAL-1015,Organic Chemicals / Binders,40300.0,Prospect,11,-1,2024-07-08,0,0,Jul 2024,2024-07
+NHC-1082,Forma Healthcare,Nutraceutical Producer,South East England,Cold Email,DEAL-1082,Oleochemicals / Lubricants,12800.0,Prospect,18,-1,2024-07-09,0,0,Jul 2024,2024-07
+NHC-1123,Zenith Labs,Retail Pharmacy Chain,South East England,Referral,DEAL-1123,Film Coating Excipients,34700.0,Quoted,39,-1,2024-07-10,3,18,Jul 2024,2024-07
+NHC-1144,Calibra Biologics,Hospital Pharmacy,North West England,Referral,DEAL-1144,Oleochemicals / Lubricants,10200.0,Closed Lost,0,0,2024-07-10,2,15,Jul 2024,2024-07
+NHC-1056,Fortis Life Sciences,Hospital Pharmacy,South East England,LinkedIn Outreach,DEAL-1056,Mixed Excipient Bundle,11400.0,Quoted,41,-1,2024-07-12,3,10,Jul 2024,2024-07
+NHC-1058,Crest Nutraceuticals,Nutraceutical Producer,Wales,Distributor,DEAL-1058,Oleochemicals / Lubricants,23600.0,Closed Won,100,1,2024-07-13,4,35,Jul 2024,2024-07
+NHC-1006,Orbis Chemicals,Nutraceutical Producer,London,Cold Email,DEAL-1006,Film Coating Excipients,19100.0,Quoted,41,-1,2024-07-14,2,13,Jul 2024,2024-07
+NHC-1138,Crest Therapeutics,Contract Research Organisation,South East England,Website Enquiry,DEAL-1138,Organic Chemicals / Binders,11300.0,Quoted,39,-1,2024-07-14,2,7,Jul 2024,2024-07
+NHC-1044,Nexus Labs,Hospital Pharmacy,London,Cold Email,DEAL-1044,Organic Chemicals / Binders,12200.0,Quoted,38,-1,2024-07-17,2,13,Jul 2024,2024-07
+NHC-1208,Forma Chemicals,CDMO / Generic Manufacturer,London,Referral,DEAL-1208,Film Coating Excipients,40700.0,Contacted,16,-1,2024-07-18,1,9,Jul 2024,2024-07
+NHC-1029,Praxis Formulations,Retail Pharmacy Chain,North West England,Trade Show,DEAL-1029,Organic Chemicals / Binders,10600.0,Prospect,12,-1,2024-07-21,1,0,Jul 2024,2024-07
+NHC-1134,Orbis Healthcare,CDMO / Generic Manufacturer,London,Website Enquiry,DEAL-1134,Organic Chemicals / Binders,46700.0,Contacted,15,-1,2024-07-22,1,5,Jul 2024,2024-07
+NHC-1090,Praxis Biotech,Retail Pharmacy Chain,South East England,LinkedIn Outreach,DEAL-1090,Film Coating Excipients,9400.0,Negotiation,68,-1,2024-07-22,4,14,Jul 2024,2024-07
+NHC-1126,Elara Life Sciences,Hospital Pharmacy,Yorkshire,LinkedIn Outreach,DEAL-1126,Oleochemicals / Lubricants,6200.0,Negotiation,59,-1,2024-07-22,4,14,Jul 2024,2024-07
+NHC-1057,Orbis Life Sciences,Retail Pharmacy Chain,Midlands,Website Enquiry,DEAL-1057,Film Coating Excipients,11400.0,Prospect,3,-1,2024-07-24,1,0,Jul 2024,2024-07
+NHC-1145,Enovis Nutraceuticals,Retail Pharmacy Chain,Scotland,LinkedIn Outreach,DEAL-1145,Oleochemicals / Lubricants,20800.0,Closed Lost,3,0,2024-07-25,2,15,Jul 2024,2024-07
+NHC-1186,Zenith Healthcare,Licensed Specials Manufacturer,South East England,LinkedIn Outreach,DEAL-1186,Mixed Excipient Bundle,35500.0,Prospect,15,-1,2024-07-26,1,0,Jul 2024,2024-07
+NHC-1180,Pinnacle Biotech,Retail Pharmacy Chain,Netherlands,Distributor,DEAL-1180,Organic Chemicals / Binders,15600.0,Contacted,29,-1,2024-07-26,1,7,Jul 2024,2024-07
+NHC-1195,Vantage Pharma,Licensed Specials Manufacturer,Republic of Ireland,Referral,DEAL-1195,Organic Chemicals / Binders,22700.0,Prospect,18,-1,2024-07-26,1,0,Jul 2024,2024-07
+NHC-1023,Kinara Healthcare,CDMO / Generic Manufacturer,Midlands,Trade Show,DEAL-1023,Oleochemicals / Lubricants,47700.0,Quoted,38,-1,2024-07-28,2,5,Jul 2024,2024-07
+NHC-1182,Altum API Ltd,Retail Pharmacy Chain,Republic of Ireland,Distributor,DEAL-1182,Oleochemicals / Lubricants,28500.0,Contacted,19,-1,2024-07-28,1,10,Jul 2024,2024-07
+NHC-1132,Nexus API Ltd,CDMO / Generic Manufacturer,Germany,Distributor,DEAL-1132,Mixed Excipient Bundle,18500.0,Quoted,43,-1,2024-07-28,2,5,Jul 2024,2024-07
+NHC-1156,Vitagen Biotech,Contract Research Organisation,Scotland,Distributor,DEAL-1156,Film Coating Excipients,13500.0,Closed Won,100,1,2024-07-30,3,30,Jul 2024,2024-07
+NHC-1034,Lumex Healthcare,Hospital Pharmacy,Netherlands,Cold Email,DEAL-1034,Oleochemicals / Lubricants,19500.0,Prospect,9,-1,2024-08-01,1,0,Aug 2024,2024-08
+NHC-1081,Helix Therapeutics,Licensed Specials Manufacturer,South East England,Website Enquiry,DEAL-1081,Organic Chemicals / Binders,16100.0,Negotiation,58,-1,2024-08-05,4,12,Aug 2024,2024-08
+NHC-1028,Calibra Nutraceuticals,Hospital Pharmacy,Republic of Ireland,Distributor,DEAL-1028,Oleochemicals / Lubricants,25400.0,Quoted,40,-1,2024-08-15,2,19,Aug 2024,2024-08
+NHC-1242,Lumex Nutraceuticals,Licensed Specials Manufacturer,North West England,Referral,DEAL-1242,Organic Chemicals / Binders,26800.0,Closed Lost,8,0,2024-08-17,2,14,Aug 2024,2024-08
+NHC-1084,Calibra Pharma,Hospital Pharmacy,London,Cold Email,DEAL-1084,Film Coating Excipients,15300.0,Negotiation,69,-1,2024-08-20,4,27,Aug 2024,2024-08
+NHC-1091,Lumex Formulations,CDMO / Generic Manufacturer,London,Website Enquiry,DEAL-1091,Oleochemicals / Lubricants,48700.0,Contacted,15,-1,2024-08-20,1,5,Aug 2024,2024-08
+NHC-1223,Vantage Medical,Hospital Pharmacy,Netherlands,Website Enquiry,DEAL-1223,Organic Chemicals / Binders,13300.0,Prospect,2,-1,2024-08-20,0,0,Aug 2024,2024-08
+NHC-1119,Meridian Life Sciences,Retail Pharmacy Chain,Yorkshire,Trade Show,DEAL-1119,Mixed Excipient Bundle,12900.0,Contacted,16,-1,2024-08-22,2,10,Aug 2024,2024-08
+NHC-1246,Centrix Sciences,CDMO / Generic Manufacturer,London,Distributor,DEAL-1246,Film Coating Excipients,71500.0,Closed Won,92,1,2024-08-22,5,43,Aug 2024,2024-08
+NHC-1112,Solara Nutraceuticals,Licensed Specials Manufacturer,South East England,Website Enquiry,DEAL-1112,Mixed Excipient Bundle,41100.0,Contacted,16,-1,2024-08-30,2,4,Aug 2024,2024-08
+NHC-1153,Zenith API Ltd,Licensed Specials Manufacturer,South East England,LinkedIn Outreach,DEAL-1153,Organic Chemicals / Binders,44900.0,Quoted,33,-1,2024-08-31,3,16,Aug 2024,2024-08
+NHC-1066,Zenith Chemicals,Nutraceutical Producer,South East England,LinkedIn Outreach,DEAL-1066,Film Coating Excipients,17600.0,Prospect,3,-1,2024-09-02,1,0,Sep 2024,2024-09
+NHC-1173,Praxis Life Sciences,Retail Pharmacy Chain,London,Website Enquiry,DEAL-1173,Film Coating Excipients,16700.0,Closed Lost,6,0,2024-09-03,2,22,Sep 2024,2024-09
+NHC-1178,Orbis Biotech,Retail Pharmacy Chain,North West England,Referral,DEAL-1178,Oleochemicals / Lubricants,21400.0,Prospect,13,-1,2024-09-04,1,0,Sep 2024,2024-09
+NHC-1163,Kinara Nutraceuticals,CDMO / Generic Manufacturer,Yorkshire,Trade Show,DEAL-1163,Oleochemicals / Lubricants,57200.0,Closed Lost,7,0,2024-09-05,3,15,Sep 2024,2024-09
+NHC-1038,Elara API Ltd,Hospital Pharmacy,North West England,LinkedIn Outreach,DEAL-1038,Film Coating Excipients,11000.0,Contacted,21,-1,2024-09-09,2,2,Sep 2024,2024-09
+NHC-1106,Biopharma Healthcare,Licensed Specials Manufacturer,Midlands,Website Enquiry,DEAL-1106,Organic Chemicals / Binders,17500.0,Negotiation,70,-1,2024-09-10,4,14,Sep 2024,2024-09
+NHC-1097,Elara Formulations,Contract Research Organisation,Republic of Ireland,Distributor,DEAL-1097,Mixed Excipient Bundle,7400.0,Negotiation,58,-1,2024-09-10,3,13,Sep 2024,2024-09
+NHC-1065,Biopharma Pharma,Hospital Pharmacy,Republic of Ireland,Cold Email,DEAL-1065,Film Coating Excipients,11900.0,Closed Won,100,1,2024-09-12,4,19,Sep 2024,2024-09
+NHC-1149,Apex Biologics,Licensed Specials Manufacturer,Wales,Trade Show,DEAL-1149,Oleochemicals / Lubricants,21200.0,Quoted,46,-1,2024-09-13,2,10,Sep 2024,2024-09
+NHC-1085,Lumex API Ltd,Nutraceutical Producer,London,Referral,DEAL-1085,Oleochemicals / Lubricants,14400.0,Quoted,43,-1,2024-09-14,2,13,Sep 2024,2024-09
+NHC-1233,Kinara Formulations,Licensed Specials Manufacturer,Germany,Website Enquiry,DEAL-1233,Organic Chemicals / Binders,15900.0,Prospect,6,-1,2024-09-16,0,0,Sep 2024,2024-09
+NHC-1004,Clarix Therapeutics,CDMO / Generic Manufacturer,Midlands,Cold Email,DEAL-1004,Mixed Excipient Bundle,82900.0,Quoted,42,-1,2024-09-16,2,17,Sep 2024,2024-09
+NHC-1230,Calibra Therapeutics,Contract Research Organisation,South East England,LinkedIn Outreach,DEAL-1230,Oleochemicals / Lubricants,12200.0,Contacted,21,-1,2024-09-17,2,7,Sep 2024,2024-09
+NHC-1183,Forma Nutraceuticals,Licensed Specials Manufacturer,Wales,LinkedIn Outreach,DEAL-1183,Film Coating Excipients,28800.0,Prospect,4,-1,2024-09-18,1,0,Sep 2024,2024-09
+NHC-1176,Fortis Healthcare,CDMO / Generic Manufacturer,Republic of Ireland,Cold Email,DEAL-1176,Organic Chemicals / Binders,19700.0,Negotiation,68,-1,2024-09-18,4,20,Sep 2024,2024-09
+NHC-1008,Lumex Labs,Nutraceutical Producer,Yorkshire,LinkedIn Outreach,DEAL-1008,Organic Chemicals / Binders,7300.0,Contacted,19,-1,2024-09-21,2,3,Sep 2024,2024-09
+NHC-1194,Calibra Labs,Retail Pharmacy Chain,South East England,Referral,DEAL-1194,Oleochemicals / Lubricants,37200.0,Prospect,18,-1,2024-09-24,1,0,Sep 2024,2024-09
+NHC-1174,Calibra Sciences,Licensed Specials Manufacturer,London,Cold Email,DEAL-1174,Organic Chemicals / Binders,48700.0,Quoted,39,-1,2024-09-27,3,11,Sep 2024,2024-09
+NHC-1002,Elara Healthcare,CDMO / Generic Manufacturer,Republic of Ireland,Website Enquiry,DEAL-1002,Organic Chemicals / Binders,92900.0,Negotiation,61,-1,2024-09-28,4,12,Sep 2024,2024-09
+NHC-1185,Altum Life Sciences,Retail Pharmacy Chain,London,Trade Show,DEAL-1185,Organic Chemicals / Binders,36200.0,Prospect,3,-1,2024-09-28,0,0,Sep 2024,2024-09
+NHC-1018,Enovis Sciences,Hospital Pharmacy,Scotland,Cold Email,DEAL-1018,Film Coating Excipients,27600.0,Contacted,18,-1,2024-09-28,2,6,Sep 2024,2024-09

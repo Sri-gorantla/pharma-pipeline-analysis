@@ -1,0 +1,251 @@
+customer_id,company_name,sector,region,days_since_last_contact,total_interactions,total_deal_value,r_score,f_score,m_score,rfm_code,rfm_total_score,customer_segment
+NHC-1206,Vitagen Sciences,CDMO / Generic Manufacturer,London,642.0,3,77400.0,4,4,4,444,12,Champion
+NHC-1246,Centrix Sciences,CDMO / Generic Manufacturer,London,589.0,5,71500.0,4,4,4,444,12,Champion
+NHC-1163,Kinara Nutraceuticals,CDMO / Generic Manufacturer,Yorkshire,575.0,3,57200.0,4,4,4,444,12,Champion
+NHC-1002,Elara Healthcare,CDMO / Generic Manufacturer,Republic of Ireland,552.0,4,92900.0,4,4,4,444,12,Champion
+NHC-1193,Apex Therapeutics,CDMO / Generic Manufacturer,Germany,725.0,4,80900.0,3,4,4,344,11,Champion
+NHC-1099,Meridian API Ltd,CDMO / Generic Manufacturer,South East England,719.0,3,60500.0,3,4,4,344,11,Champion
+NHC-1207,Solara Medical,CDMO / Generic Manufacturer,South East England,715.0,3,58100.0,3,4,4,344,11,Champion
+NHC-1189,Centrix Labs,CDMO / Generic Manufacturer,South East England,683.0,4,60600.0,3,4,4,344,11,Champion
+NHC-1235,Centrix Formulations,CDMO / Generic Manufacturer,Netherlands,676.0,4,61900.0,3,4,4,344,11,Champion
+NHC-1217,Clarix Nutraceuticals,CDMO / Generic Manufacturer,North West England,665.0,5,64700.0,3,4,4,344,11,Champion
+NHC-1061,Syntek Healthcare,Licensed Specials Manufacturer,Wales,664.0,4,41000.0,3,4,4,344,11,Champion
+NHC-1100,Fortis Labs,CDMO / Generic Manufacturer,Germany,662.0,3,66900.0,3,4,4,344,11,Champion
+NHC-1058,Crest Nutraceuticals,Nutraceutical Producer,Wales,629.0,4,23600.0,4,4,3,443,11,Champion
+NHC-1023,Kinara Healthcare,CDMO / Generic Manufacturer,Midlands,614.0,2,47700.0,4,3,4,434,11,Champion
+NHC-1112,Solara Nutraceuticals,Licensed Specials Manufacturer,South East England,581.0,2,41100.0,4,3,4,434,11,Champion
+NHC-1153,Zenith API Ltd,Licensed Specials Manufacturer,South East England,580.0,3,44900.0,4,3,4,434,11,Champion
+NHC-1004,Clarix Therapeutics,CDMO / Generic Manufacturer,Midlands,564.0,2,82900.0,4,3,4,434,11,Champion
+NHC-1174,Calibra Sciences,Licensed Specials Manufacturer,London,553.0,3,48700.0,4,3,4,434,11,Champion
+NHC-1040,Biopharma Sciences,CDMO / Generic Manufacturer,Wales,792.0,3,93500.0,2,4,4,244,10,Loyal Customer
+NHC-1170,Syntek Labs,CDMO / Generic Manufacturer,North West England,788.0,5,40500.0,2,4,4,244,10,Loyal Customer
+NHC-1146,Kinara Biologics,CDMO / Generic Manufacturer,Yorkshire,776.0,4,57900.0,2,4,4,244,10,Loyal Customer
+NHC-1098,Elara Biotech,CDMO / Generic Manufacturer,North West England,773.0,3,65100.0,2,4,4,244,10,Loyal Customer
+NHC-1150,Orbis Nutraceuticals,CDMO / Generic Manufacturer,Scotland,742.0,2,48200.0,3,3,4,334,10,Loyal Customer
+NHC-1243,Pinnacle Chemicals,Licensed Specials Manufacturer,South East England,735.0,3,53500.0,3,3,4,334,10,Loyal Customer
+NHC-1147,Syntek Sciences,Licensed Specials Manufacturer,Germany,733.0,4,26800.0,3,4,3,343,10,Loyal Customer
+NHC-1152,Kinara Medical,CDMO / Generic Manufacturer,South East England,726.0,2,56100.0,3,3,4,334,10,Loyal Customer
+NHC-1067,Apex Pharma,Retail Pharmacy Chain,Germany,725.0,3,40000.0,3,3,4,334,10,Loyal Customer
+NHC-1092,Zenith Life Sciences,Nutraceutical Producer,South East England,722.0,5,25700.0,3,4,3,343,10,Loyal Customer
+NHC-1198,Lumex Medical,Retail Pharmacy Chain,Scotland,715.0,5,24700.0,3,4,3,343,10,Loyal Customer
+NHC-1123,Zenith Labs,Retail Pharmacy Chain,South East England,632.0,3,34700.0,4,3,3,433,10,Loyal Customer
+NHC-1208,Forma Chemicals,CDMO / Generic Manufacturer,London,624.0,1,40700.0,4,2,4,424,10,Big Spender
+NHC-1134,Orbis Healthcare,CDMO / Generic Manufacturer,London,620.0,1,46700.0,4,2,4,424,10,Big Spender
+NHC-1081,Helix Therapeutics,Licensed Specials Manufacturer,South East England,606.0,4,16100.0,4,4,2,442,10,Promising
+NHC-1091,Lumex Formulations,CDMO / Generic Manufacturer,London,591.0,1,48700.0,4,2,4,424,10,Big Spender
+NHC-1084,Calibra Pharma,Hospital Pharmacy,London,591.0,4,15300.0,4,4,2,442,10,Promising
+NHC-1106,Biopharma Healthcare,Licensed Specials Manufacturer,Midlands,570.0,4,17500.0,4,4,2,442,10,Promising
+NHC-1176,Fortis Healthcare,CDMO / Generic Manufacturer,Republic of Ireland,562.0,4,19700.0,4,4,2,442,10,Promising
+NHC-1224,Orbis API Ltd,CDMO / Generic Manufacturer,South East England,964.0,4,90800.0,1,4,4,144,9,At Risk
+NHC-1171,Forma Pharma,CDMO / Generic Manufacturer,Germany,923.0,4,91200.0,1,4,4,144,9,At Risk
+NHC-1210,Fortis Chemicals,Licensed Specials Manufacturer,Scotland,919.0,5,41700.0,1,4,4,144,9,At Risk
+NHC-1042,Meridian Biotech,CDMO / Generic Manufacturer,London,916.0,3,80500.0,1,4,4,144,9,At Risk
+NHC-1131,Praxis Sciences,CDMO / Generic Manufacturer,North West England,890.0,5,76800.0,1,4,4,144,9,At Risk
+NHC-1124,Solara Pharma,CDMO / Generic Manufacturer,South East England,871.0,3,80300.0,1,4,4,144,9,At Risk
+NHC-1177,Orbis Medical,CDMO / Generic Manufacturer,Germany,836.0,2,50900.0,2,3,4,234,9,Loyal Customer
+NHC-1143,Vitagen Life Sciences,Hospital Pharmacy,London,833.0,4,29200.0,2,4,3,243,9,Loyal Customer
+NHC-1199,Biopharma Chemicals,CDMO / Generic Manufacturer,Netherlands,825.0,2,68900.0,2,3,4,234,9,Loyal Customer
+NHC-1129,Elara Therapeutics,Retail Pharmacy Chain,Wales,819.0,4,32800.0,2,4,3,243,9,Loyal Customer
+NHC-1155,Vantage Labs,CDMO / Generic Manufacturer,Wales,811.0,2,80000.0,2,3,4,234,9,Loyal Customer
+NHC-1024,Solara Biologics,Licensed Specials Manufacturer,London,770.0,2,50700.0,2,3,4,234,9,Loyal Customer
+NHC-1079,Vitagen Healthcare,CDMO / Generic Manufacturer,Midlands,746.0,1,65400.0,3,2,4,324,9,Big Spender
+NHC-1175,Pinnacle Pharma,Contract Research Organisation,Midlands,740.0,5,17300.0,3,4,2,342,9,Promising
+NHC-1032,Orbis Sciences,CDMO / Generic Manufacturer,South East England,736.0,1,75900.0,3,2,4,324,9,Big Spender
+NHC-1046,Centrix Nutraceuticals,Hospital Pharmacy,Midlands,736.0,3,28800.0,3,3,3,333,9,Loyal Customer
+NHC-1110,Nexus Biologics,Licensed Specials Manufacturer,Wales,707.0,4,17900.0,3,4,2,342,9,Promising
+NHC-1161,Lumex Biotech,CDMO / Generic Manufacturer,Midlands,705.0,1,47500.0,3,2,4,324,9,Big Spender
+NHC-1227,Calibra Chemicals,Retail Pharmacy Chain,Yorkshire,703.0,4,20600.0,3,4,2,342,9,Promising
+NHC-1232,Centrix Chemicals,Licensed Specials Manufacturer,Germany,698.0,1,45100.0,3,2,4,324,9,Big Spender
+NHC-1095,Clarix Life Sciences,Retail Pharmacy Chain,Midlands,683.0,2,38400.0,3,2,4,324,9,Big Spender
+NHC-1051,Praxis API Ltd,Retail Pharmacy Chain,London,676.0,3,24200.0,3,3,3,333,9,Loyal Customer
+NHC-1071,Solara API Ltd,CDMO / Generic Manufacturer,North West England,665.0,2,39400.0,3,2,4,324,9,Big Spender
+NHC-1113,Elara Sciences,Licensed Specials Manufacturer,Midlands,661.0,1,52100.0,3,2,4,324,9,Big Spender
+NHC-1101,Nexus Pharma,CDMO / Generic Manufacturer,Yorkshire,660.0,3,24300.0,3,3,3,333,9,Loyal Customer
+NHC-1048,Clarix Formulations,Licensed Specials Manufacturer,Netherlands,658.0,3,31900.0,3,3,3,333,9,Loyal Customer
+NHC-1218,Forma Biologics,Hospital Pharmacy,London,657.0,3,28400.0,3,3,3,333,9,Loyal Customer
+NHC-1068,Biopharma Formulations,CDMO / Generic Manufacturer,South East England,641.0,1,40700.0,4,1,4,414,9,Big Spender
+NHC-1015,Helix Chemicals,Licensed Specials Manufacturer,Netherlands,634.0,0,40300.0,4,1,4,414,9,Big Spender
+NHC-1126,Elara Life Sciences,Hospital Pharmacy,Yorkshire,620.0,4,6200.0,4,4,1,441,9,Promising
+NHC-1090,Praxis Biotech,Retail Pharmacy Chain,South East England,620.0,4,9400.0,4,4,1,441,9,Promising
+NHC-1028,Calibra Nutraceuticals,Hospital Pharmacy,Republic of Ireland,596.0,2,25400.0,4,2,3,423,9,Promising
+NHC-1242,Lumex Nutraceuticals,Licensed Specials Manufacturer,North West England,594.0,2,26800.0,4,2,3,423,9,Promising
+NHC-1065,Biopharma Pharma,Hospital Pharmacy,Republic of Ireland,568.0,4,11900.0,4,4,1,441,9,Promising
+NHC-1018,Enovis Sciences,Hospital Pharmacy,Scotland,552.0,2,27600.0,4,2,3,423,9,Promising
+NHC-1196,Syntek Biotech,Licensed Specials Manufacturer,Germany,962.0,3,48000.0,1,3,4,134,8,At Risk
+NHC-1190,Pinnacle Labs,Hospital Pharmacy,Germany,936.0,4,25200.0,1,4,3,143,8,At Risk
+NHC-1187,Syntek Pharma,CDMO / Generic Manufacturer,London,927.0,3,50900.0,1,3,4,134,8,At Risk
+NHC-1115,Altum Biotech,Nutraceutical Producer,London,881.0,4,26500.0,1,4,3,143,8,At Risk
+NHC-1127,Altum Formulations,Retail Pharmacy Chain,Midlands,872.0,4,25000.0,1,4,3,143,8,At Risk
+NHC-1130,Syntek Therapeutics,CDMO / Generic Manufacturer,Netherlands,843.0,2,49900.0,1,3,4,134,8,At Risk
+NHC-1017,Apex Medical,Nutraceutical Producer,Scotland,841.0,3,24000.0,2,3,3,233,8,Loyal Customer
+NHC-1001,Fortis API Ltd,Hospital Pharmacy,Scotland,834.0,3,26700.0,2,3,3,233,8,Loyal Customer
+NHC-1125,Kinara Sciences,CDMO / Generic Manufacturer,London,822.0,3,36000.0,2,3,3,233,8,Loyal Customer
+NHC-1226,Crest Sciences,CDMO / Generic Manufacturer,Scotland,815.0,1,49400.0,2,2,4,224,8,Big Spender
+NHC-1052,Forma Labs,Licensed Specials Manufacturer,Wales,814.0,3,36600.0,2,3,3,233,8,Loyal Customer
+NHC-1157,Zenith Sciences,Hospital Pharmacy,Midlands,809.0,5,22400.0,2,4,2,242,8,Needs Attention
+NHC-1154,Vitagen API Ltd,Retail Pharmacy Chain,Midlands,798.0,4,15900.0,2,4,2,242,8,Needs Attention
+NHC-1005,Meridian Labs,CDMO / Generic Manufacturer,North West England,791.0,1,75400.0,2,2,4,224,8,Big Spender
+NHC-1241,Kinara Pharma,Licensed Specials Manufacturer,London,791.0,3,28100.0,2,3,3,233,8,Loyal Customer
+NHC-1062,Solara Healthcare,Retail Pharmacy Chain,London,787.0,5,15500.0,2,4,2,242,8,Needs Attention
+NHC-1204,Crest Biologics,Retail Pharmacy Chain,North West England,780.0,3,36100.0,2,3,3,233,8,Loyal Customer
+NHC-1053,Calibra Healthcare,Hospital Pharmacy,London,767.0,5,18100.0,2,4,2,242,8,Needs Attention
+NHC-1236,Vantage Biotech,Licensed Specials Manufacturer,Republic of Ireland,764.0,4,20000.0,2,4,2,242,8,Needs Attention
+NHC-1072,Zenith Medical,Contract Research Organisation,South East England,762.0,4,17600.0,2,4,2,242,8,Needs Attention
+NHC-1041,Enovis Healthcare,Licensed Specials Manufacturer,Netherlands,751.0,1,49500.0,2,2,4,224,8,Big Spender
+NHC-1109,Nexus Nutraceuticals,Hospital Pharmacy,Yorkshire,751.0,3,28700.0,2,3,3,233,8,Loyal Customer
+NHC-1114,Meridian Pharma,Retail Pharmacy Chain,London,732.0,1,38900.0,3,1,4,314,8,Big Spender
+NHC-1239,Pinnacle Life Sciences,Hospital Pharmacy,Germany,730.0,2,27500.0,3,2,3,323,8,Promising
+NHC-1133,Altum Pharma,CDMO / Generic Manufacturer,Yorkshire,719.0,3,19300.0,3,3,2,332,8,Promising
+NHC-1135,Pinnacle Healthcare,CDMO / Generic Manufacturer,Midlands,706.0,0,56500.0,3,1,4,314,8,Big Spender
+NHC-1059,Praxis Biologics,Nutraceutical Producer,London,705.0,3,15100.0,3,3,2,332,8,Promising
+NHC-1055,Lumex Therapeutics,Hospital Pharmacy,Scotland,687.0,4,14400.0,3,4,1,341,8,Promising
+NHC-1075,Nexus Chemicals,CDMO / Generic Manufacturer,Midlands,683.0,3,19400.0,3,3,2,332,8,Promising
+NHC-1043,Altum Sciences,Retail Pharmacy Chain,Midlands,656.0,2,26200.0,3,2,3,323,8,Promising
+NHC-1151,Biopharma Biotech,Licensed Specials Manufacturer,South East England,651.0,1,36700.0,4,1,3,413,8,Promising
+NHC-1172,Forma Therapeutics,Retail Pharmacy Chain,London,650.0,2,22700.0,4,2,2,422,8,Promising
+NHC-1197,Apex API Ltd,Nutraceutical Producer,Yorkshire,645.0,1,27300.0,4,1,3,413,8,Promising
+NHC-1056,Fortis Life Sciences,Hospital Pharmacy,South East England,630.0,3,11400.0,4,3,1,431,8,Promising
+NHC-1006,Orbis Chemicals,Nutraceutical Producer,London,628.0,2,19100.0,4,2,2,422,8,Promising
+NHC-1145,Enovis Nutraceuticals,Retail Pharmacy Chain,Scotland,617.0,2,20800.0,4,2,2,422,8,Promising
+NHC-1186,Zenith Healthcare,Licensed Specials Manufacturer,South East England,616.0,1,35500.0,4,1,3,413,8,Promising
+NHC-1182,Altum API Ltd,Retail Pharmacy Chain,Republic of Ireland,614.0,1,28500.0,4,1,3,413,8,Promising
+NHC-1132,Nexus API Ltd,CDMO / Generic Manufacturer,Germany,614.0,2,18500.0,4,2,2,422,8,Promising
+NHC-1156,Vitagen Biotech,Contract Research Organisation,Scotland,612.0,3,13500.0,4,3,1,431,8,Promising
+NHC-1173,Praxis Life Sciences,Retail Pharmacy Chain,London,577.0,2,16700.0,4,2,2,422,8,Promising
+NHC-1097,Elara Formulations,Contract Research Organisation,Republic of Ireland,570.0,3,7400.0,4,3,1,431,8,Promising
+NHC-1149,Apex Biologics,Licensed Specials Manufacturer,Wales,567.0,2,21200.0,4,2,2,422,8,Promising
+NHC-1183,Forma Nutraceuticals,Licensed Specials Manufacturer,Wales,562.0,1,28800.0,4,1,3,413,8,Promising
+NHC-1194,Calibra Labs,Retail Pharmacy Chain,South East England,556.0,1,37200.0,4,1,3,413,8,Promising
+NHC-1185,Altum Life Sciences,Retail Pharmacy Chain,London,552.0,0,36200.0,4,1,3,413,8,Promising
+NHC-1094,Nexus Healthcare,Retail Pharmacy Chain,Germany,961.0,3,29500.0,1,3,3,133,7,At Risk
+NHC-1000,Clarix Biologics,Retail Pharmacy Chain,London,961.0,3,36500.0,1,3,3,133,7,At Risk
+NHC-1215,Syntek Medical,Hospital Pharmacy,Yorkshire,953.0,3,29100.0,1,3,3,133,7,At Risk
+NHC-1158,Centrix Biotech,Nutraceutical Producer,Republic of Ireland,953.0,5,18500.0,1,4,2,142,7,Needs Attention
+NHC-1096,Fortis Biologics,CDMO / Generic Manufacturer,London,914.0,1,52400.0,1,2,4,124,7,Big Spender
+NHC-1045,Helix Pharma,Licensed Specials Manufacturer,North West England,913.0,5,19100.0,1,4,2,142,7,Needs Attention
+NHC-1107,Kinara Life Sciences,Licensed Specials Manufacturer,London,893.0,4,18400.0,1,4,2,142,7,Needs Attention
+NHC-1249,Enovis Therapeutics,CDMO / Generic Manufacturer,London,883.0,1,65800.0,1,2,4,124,7,Big Spender
+NHC-1111,Fortis Nutraceuticals,Hospital Pharmacy,Scotland,861.0,4,17100.0,1,4,2,142,7,Needs Attention
+NHC-1054,Elara Chemicals,Hospital Pharmacy,Midlands,856.0,3,28900.0,1,3,3,133,7,At Risk
+NHC-1063,Fortis Pharma,Nutraceutical Producer,Yorkshire,856.0,5,21200.0,1,4,2,142,7,Needs Attention
+NHC-1064,Helix Medical,CDMO / Generic Manufacturer,South East England,852.0,3,34300.0,1,3,3,133,7,At Risk
+NHC-1039,Zenith Formulations,Licensed Specials Manufacturer,Yorkshire,848.0,3,26200.0,1,3,3,133,7,At Risk
+NHC-1244,Nexus Therapeutics,CDMO / Generic Manufacturer,London,835.0,2,36400.0,2,2,3,223,7,Needs Attention
+NHC-1047,Clarix Healthcare,Retail Pharmacy Chain,North West England,829.0,2,35400.0,2,2,3,223,7,Needs Attention
+NHC-1229,Clarix API Ltd,CDMO / Generic Manufacturer,London,828.0,0,61700.0,2,1,4,214,7,Big Spender
+NHC-1221,Vitagen Biologics,Contract Research Organisation,London,826.0,4,13600.0,2,4,1,241,7,Needs Attention
+NHC-1076,Altum Healthcare,Contract Research Organisation,London,818.0,4,6600.0,2,4,1,241,7,Needs Attention
+NHC-1128,Vantage API Ltd,Hospital Pharmacy,Republic of Ireland,806.0,2,24000.0,2,2,3,223,7,Needs Attention
+NHC-1202,Centrix Life Sciences,CDMO / Generic Manufacturer,Republic of Ireland,806.0,2,29000.0,2,2,3,223,7,Needs Attention
+NHC-1167,Pinnacle Therapeutics,Retail Pharmacy Chain,London,805.0,4,12100.0,2,4,1,241,7,Needs Attention
+NHC-1030,Centrix Biologics,Hospital Pharmacy,Midlands,796.0,4,5500.0,2,4,1,241,7,Needs Attention
+NHC-1139,Praxis Therapeutics,Retail Pharmacy Chain,London,792.0,4,11400.0,2,4,1,241,7,Needs Attention
+NHC-1234,Helix Sciences,Retail Pharmacy Chain,North West England,778.0,3,19800.0,2,3,2,232,7,Needs Attention
+NHC-1089,Pinnacle Medical,Retail Pharmacy Chain,South East England,777.0,2,29400.0,2,2,3,223,7,Needs Attention
+NHC-1191,Fortis Formulations,Licensed Specials Manufacturer,Scotland,764.0,2,31700.0,2,2,3,223,7,Needs Attention
+NHC-1142,Praxis Nutraceuticals,Hospital Pharmacy,London,756.0,5,14500.0,2,4,1,241,7,Needs Attention
+NHC-1009,Zenith Biologics,Licensed Specials Manufacturer,Germany,752.0,3,20600.0,2,3,2,232,7,Needs Attention
+NHC-1025,Apex Sciences,Retail Pharmacy Chain,Germany,750.0,3,17200.0,2,3,2,232,7,Needs Attention
+NHC-1213,Elara Medical,Retail Pharmacy Chain,South East England,749.0,3,20100.0,2,3,2,232,7,Needs Attention
+NHC-1148,Crest Formulations,CDMO / Generic Manufacturer,Scotland,740.0,1,31400.0,3,1,3,313,7,Promising
+NHC-1088,Altum Medical,Hospital Pharmacy,Scotland,721.0,1,24800.0,3,1,3,313,7,Promising
+NHC-1014,Zenith Therapeutics,CDMO / Generic Manufacturer,South East England,716.0,2,22400.0,3,2,2,322,7,Promising
+NHC-1220,Syntek Life Sciences,CDMO / Generic Manufacturer,Wales,715.0,1,25900.0,3,1,3,313,7,Promising
+NHC-1049,Biopharma API Ltd,Contract Research Organisation,Midlands,694.0,3,6600.0,3,3,1,331,7,Promising
+NHC-1105,Syntek API Ltd,Licensed Specials Manufacturer,London,685.0,1,29300.0,3,1,3,313,7,Promising
+NHC-1169,Praxis Labs,Contract Research Organisation,Republic of Ireland,684.0,3,9200.0,3,3,1,331,7,Promising
+NHC-1019,Apex Healthcare,Retail Pharmacy Chain,South East England,678.0,3,10400.0,3,3,1,331,7,Promising
+NHC-1136,Clarix Pharma,Licensed Specials Manufacturer,Germany,676.0,2,19700.0,3,2,2,322,7,Promising
+NHC-1093,Praxis Healthcare,Retail Pharmacy Chain,London,668.0,3,10600.0,3,3,1,331,7,Promising
+NHC-1078,Vitagen Therapeutics,Retail Pharmacy Chain,Germany,653.0,2,12800.0,4,2,1,421,7,Promising
+NHC-1108,Altum Nutraceuticals,Hospital Pharmacy,Scotland,641.0,2,12700.0,4,2,1,421,7,Promising
+NHC-1144,Calibra Biologics,Hospital Pharmacy,North West England,632.0,2,10200.0,4,2,1,421,7,Promising
+NHC-1138,Crest Therapeutics,Contract Research Organisation,South East England,628.0,2,11300.0,4,2,1,421,7,Promising
+NHC-1044,Nexus Labs,Hospital Pharmacy,London,625.0,2,12200.0,4,2,1,421,7,Promising
+NHC-1180,Pinnacle Biotech,Retail Pharmacy Chain,Netherlands,616.0,1,15600.0,4,1,2,412,7,Promising
+NHC-1195,Vantage Pharma,Licensed Specials Manufacturer,Republic of Ireland,616.0,1,22700.0,4,1,2,412,7,Promising
+NHC-1034,Lumex Healthcare,Hospital Pharmacy,Netherlands,610.0,1,19500.0,4,1,2,412,7,Promising
+NHC-1119,Meridian Life Sciences,Retail Pharmacy Chain,Yorkshire,589.0,2,12900.0,4,2,1,421,7,Promising
+NHC-1066,Zenith Chemicals,Nutraceutical Producer,South East England,578.0,1,17600.0,4,1,2,412,7,Promising
+NHC-1178,Orbis Biotech,Retail Pharmacy Chain,North West England,576.0,1,21400.0,4,1,2,412,7,Promising
+NHC-1038,Elara API Ltd,Hospital Pharmacy,North West England,571.0,2,11000.0,4,2,1,421,7,Promising
+NHC-1085,Lumex API Ltd,Nutraceutical Producer,London,566.0,2,14400.0,4,2,1,421,7,Promising
+NHC-1233,Kinara Formulations,Licensed Specials Manufacturer,Germany,564.0,0,15900.0,4,1,2,412,7,Promising
+NHC-1230,Calibra Therapeutics,Contract Research Organisation,South East England,563.0,2,12200.0,4,2,1,421,7,Promising
+NHC-1008,Lumex Labs,Nutraceutical Producer,Yorkshire,559.0,2,7300.0,4,2,1,421,7,Promising
+NHC-1212,Crest Life Sciences,Retail Pharmacy Chain,North West England,971.0,3,19100.0,1,3,2,132,6,Needs Attention
+NHC-1203,Vitagen Chemicals,Licensed Specials Manufacturer,Wales,957.0,2,29300.0,1,2,3,123,6,Needs Attention
+NHC-1216,Calibra API Ltd,CDMO / Generic Manufacturer,Yorkshire,953.0,2,32700.0,1,2,3,123,6,Needs Attention
+NHC-1069,Clarix Sciences,Licensed Specials Manufacturer,Midlands,930.0,2,28100.0,1,2,3,123,6,Needs Attention
+NHC-1022,Fortis Therapeutics,CDMO / Generic Manufacturer,Scotland,917.0,0,67400.0,1,1,4,114,6,Big Spender
+NHC-1188,Vitagen Formulations,Hospital Pharmacy,London,881.0,5,14700.0,1,4,1,141,6,Needs Attention
+NHC-1003,Calibra Medical,Retail Pharmacy Chain,Netherlands,869.0,2,34700.0,1,2,3,123,6,Needs Attention
+NHC-1228,Meridian Healthcare,Contract Research Organisation,London,869.0,6,3600.0,1,4,1,141,6,Needs Attention
+NHC-1237,Pinnacle Formulations,CDMO / Generic Manufacturer,London,866.0,0,91800.0,1,1,4,114,6,Big Spender
+NHC-1238,Fortis Biotech,Hospital Pharmacy,Republic of Ireland,859.0,3,23100.0,1,3,2,132,6,Needs Attention
+NHC-1020,Clarix Labs,Licensed Specials Manufacturer,Germany,855.0,1,40700.0,1,1,4,114,6,Big Spender
+NHC-1159,Meridian Medical,Hospital Pharmacy,London,848.0,4,12500.0,1,4,1,141,6,Needs Attention
+NHC-1240,Orbis Therapeutics,Licensed Specials Manufacturer,London,846.0,2,37300.0,1,2,3,123,6,Needs Attention
+NHC-1184,Forma Medical,CDMO / Generic Manufacturer,Netherlands,841.0,0,67200.0,1,1,4,114,6,Big Spender
+NHC-1247,Praxis Chemicals,Hospital Pharmacy,South East England,829.0,1,28900.0,2,1,3,213,6,Needs Attention
+NHC-1074,Apex Labs,Retail Pharmacy Chain,Yorkshire,828.0,2,17600.0,2,2,2,222,6,Needs Attention
+NHC-1200,Enovis Medical,Hospital Pharmacy,Netherlands,826.0,3,14000.0,2,3,1,231,6,Needs Attention
+NHC-1083,Enovis Labs,Licensed Specials Manufacturer,Midlands,825.0,2,21700.0,2,2,2,222,6,Needs Attention
+NHC-1165,Altum Biologics,Contract Research Organisation,Midlands,818.0,3,9000.0,2,3,1,231,6,Needs Attention
+NHC-1181,Apex Formulations,Hospital Pharmacy,London,802.0,2,16900.0,2,2,2,222,6,Needs Attention
+NHC-1016,Centrix Healthcare,Hospital Pharmacy,Germany,798.0,3,6800.0,2,3,1,231,6,Needs Attention
+NHC-1037,Apex Life Sciences,Nutraceutical Producer,South East England,795.0,1,24700.0,2,1,3,213,6,Needs Attention
+NHC-1122,Lumex Chemicals,Hospital Pharmacy,London,781.0,3,9500.0,2,3,1,231,6,Needs Attention
+NHC-1013,Vantage Chemicals,Contract Research Organisation,Germany,777.0,2,16500.0,2,2,2,222,6,Needs Attention
+NHC-1031,Orbis Biologics,Hospital Pharmacy,South East England,775.0,3,9100.0,2,3,1,231,6,Needs Attention
+NHC-1011,Altum Labs,Retail Pharmacy Chain,Germany,766.0,3,11000.0,2,3,1,231,6,Needs Attention
+NHC-1162,Helix Healthcare,Hospital Pharmacy,London,757.0,3,8500.0,2,3,1,231,6,Needs Attention
+NHC-1080,Helix Formulations,Contract Research Organisation,Midlands,752.0,3,12700.0,2,3,1,231,6,Needs Attention
+NHC-1087,Nexus Sciences,Hospital Pharmacy,South East England,747.0,1,27900.0,2,1,3,213,6,Needs Attention
+NHC-1209,Solara Sciences,Nutraceutical Producer,Republic of Ireland,739.0,1,20200.0,3,1,2,312,6,Needs Attention
+NHC-1118,Fortis Medical,Hospital Pharmacy,South East England,738.0,2,14000.0,3,2,1,321,6,Needs Attention
+NHC-1201,Lumex Life Sciences,Contract Research Organisation,Germany,735.0,1,15800.0,3,1,2,312,6,Needs Attention
+NHC-1117,Kinara Therapeutics,Nutraceutical Producer,North West England,732.0,2,7900.0,3,2,1,321,6,Needs Attention
+NHC-1222,Forma Biotech,CDMO / Generic Manufacturer,London,725.0,1,21100.0,3,1,2,312,6,Needs Attention
+NHC-1035,Centrix API Ltd,CDMO / Generic Manufacturer,Wales,717.0,0,21200.0,3,1,2,312,6,Needs Attention
+NHC-1010,Vitagen Pharma,Licensed Specials Manufacturer,Yorkshire,713.0,0,21800.0,3,1,2,312,6,Needs Attention
+NHC-1219,Centrix Medical,Hospital Pharmacy,Scotland,709.0,1,22800.0,3,1,2,312,6,Needs Attention
+NHC-1070,Solara Chemicals,Nutraceutical Producer,North West England,669.0,2,13800.0,3,2,1,321,6,Needs Attention
+NHC-1166,Crest Pharma,Hospital Pharmacy,Wales,663.0,2,11100.0,3,2,1,321,6,Needs Attention
+NHC-1082,Forma Healthcare,Nutraceutical Producer,South East England,633.0,0,12800.0,4,1,1,411,6,Needs Attention
+NHC-1029,Praxis Formulations,Retail Pharmacy Chain,North West England,621.0,1,10600.0,4,1,1,411,6,Needs Attention
+NHC-1057,Orbis Life Sciences,Retail Pharmacy Chain,Midlands,618.0,1,11400.0,4,1,1,411,6,Needs Attention
+NHC-1223,Vantage Medical,Hospital Pharmacy,Netherlands,591.0,0,13300.0,4,1,1,411,6,Needs Attention
+NHC-1164,Altum Therapeutics,Retail Pharmacy Chain,London,968.0,1,25500.0,1,1,3,113,5,Lost
+NHC-1104,Orbis Formulations,Retail Pharmacy Chain,North West England,952.0,2,22600.0,1,2,2,122,5,Lost
+NHC-1012,Calibra Biotech,Licensed Specials Manufacturer,South East England,938.0,0,30100.0,1,1,3,113,5,Lost
+NHC-1060,Helix Biotech,Contract Research Organisation,South East England,930.0,3,14300.0,1,3,1,131,5,Lost
+NHC-1137,Zenith Biotech,Hospital Pharmacy,Republic of Ireland,926.0,1,24800.0,1,1,3,113,5,Lost
+NHC-1116,Meridian Formulations,Contract Research Organisation,South East England,893.0,3,10000.0,1,3,1,131,5,Lost
+NHC-1205,Clarix Biotech,Licensed Specials Manufacturer,South East England,892.0,1,26700.0,1,1,3,113,5,Lost
+NHC-1021,Pinnacle API Ltd,Nutraceutical Producer,Midlands,863.0,2,21400.0,1,2,2,122,5,Lost
+NHC-1248,Enovis Biologics,Hospital Pharmacy,South East England,859.0,3,10000.0,1,3,1,131,5,Lost
+NHC-1140,Helix Nutraceuticals,Hospital Pharmacy,North West England,827.0,1,20000.0,2,1,2,212,5,Lost
+NHC-1141,Enovis Biotech,Hospital Pharmacy,London,823.0,2,6600.0,2,2,1,221,5,Lost
+NHC-1102,Nexus Biotech,Hospital Pharmacy,Republic of Ireland,802.0,0,16000.0,2,1,2,212,5,Lost
+NHC-1214,Elara Pharma,Contract Research Organisation,Wales,802.0,1,15400.0,2,1,2,212,5,Lost
+NHC-1036,Pinnacle Biologics,Hospital Pharmacy,Midlands,753.0,1,18000.0,2,1,2,212,5,Lost
+NHC-1245,Elara Nutraceuticals,Hospital Pharmacy,Wales,744.0,1,13700.0,3,1,1,311,5,Lost
+NHC-1050,Forma Sciences,Contract Research Organisation,Yorkshire,743.0,1,9200.0,3,1,1,311,5,Lost
+NHC-1033,Apex Nutraceuticals,Nutraceutical Producer,Yorkshire,688.0,0,9400.0,3,1,1,311,5,Lost
+NHC-1121,Lumex Biologics,Nutraceutical Producer,Midlands,680.0,0,6500.0,3,1,1,311,5,Lost
+NHC-1026,Crest Medical,Retail Pharmacy Chain,South East England,953.0,0,17900.0,1,1,2,112,4,Lost
+NHC-1120,Vantage Nutraceuticals,Hospital Pharmacy,North West England,917.0,1,18400.0,1,1,2,112,4,Lost
+NHC-1192,Syntek Chemicals,Contract Research Organisation,North West England,888.0,2,7000.0,1,2,1,121,4,Lost
+NHC-1225,Helix Labs,Hospital Pharmacy,South East England,871.0,0,21800.0,1,1,2,112,4,Lost
+NHC-1073,Clarix Chemicals,Retail Pharmacy Chain,North West England,866.0,1,23500.0,1,1,2,112,4,Lost
+NHC-1027,Orbis Labs,Hospital Pharmacy,Germany,864.0,2,8700.0,1,2,1,121,4,Lost
+NHC-1086,Pinnacle Sciences,Hospital Pharmacy,London,863.0,1,16200.0,1,1,2,112,4,Lost
+NHC-1168,Solara Labs,Hospital Pharmacy,North West England,851.0,0,23500.0,1,1,2,112,4,Lost
+NHC-1103,Crest Biotech,Contract Research Organisation,London,849.0,2,4500.0,1,2,1,121,4,Lost
+NHC-1160,Vantage Life Sciences,Hospital Pharmacy,Scotland,972.0,0,6900.0,1,1,1,111,3,Lost
+NHC-1211,Enovis Life Sciences,Nutraceutical Producer,Scotland,944.0,1,8500.0,1,1,1,111,3,Lost
+NHC-1007,Kinara API Ltd,Hospital Pharmacy,Midlands,898.0,1,9500.0,1,1,1,111,3,Lost
+NHC-1231,Calibra Life Sciences,Nutraceutical Producer,Scotland,887.0,1,13900.0,1,1,1,111,3,Lost
+NHC-1077,Solara Biotech,Hospital Pharmacy,London,886.0,1,11400.0,1,1,1,111,3,Lost
+NHC-1179,Enovis Formulations,Nutraceutical Producer,North West England,850.0,1,13900.0,1,1,1,111,3,Lost

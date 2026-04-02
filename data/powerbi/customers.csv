@@ -1,0 +1,251 @@
+customer_id,company_name,sector,region,lead_source
+NHC-1160,Vantage Life Sciences,Hospital Pharmacy,Scotland,Trade Show
+NHC-1212,Crest Life Sciences,Retail Pharmacy Chain,North West England,Distributor
+NHC-1164,Altum Therapeutics,Retail Pharmacy Chain,London,LinkedIn Outreach
+NHC-1224,Orbis API Ltd,CDMO / Generic Manufacturer,South East England,Cold Email
+NHC-1196,Syntek Biotech,Licensed Specials Manufacturer,Germany,LinkedIn Outreach
+NHC-1094,Nexus Healthcare,Retail Pharmacy Chain,Germany,Trade Show
+NHC-1000,Clarix Biologics,Retail Pharmacy Chain,London,LinkedIn Outreach
+NHC-1203,Vitagen Chemicals,Licensed Specials Manufacturer,Wales,Cold Email
+NHC-1026,Crest Medical,Retail Pharmacy Chain,South East England,Referral
+NHC-1215,Syntek Medical,Hospital Pharmacy,Yorkshire,Cold Email
+NHC-1158,Centrix Biotech,Nutraceutical Producer,Republic of Ireland,Distributor
+NHC-1216,Calibra API Ltd,CDMO / Generic Manufacturer,Yorkshire,Distributor
+NHC-1104,Orbis Formulations,Retail Pharmacy Chain,North West England,Referral
+NHC-1211,Enovis Life Sciences,Nutraceutical Producer,Scotland,Trade Show
+NHC-1012,Calibra Biotech,Licensed Specials Manufacturer,South East England,LinkedIn Outreach
+NHC-1190,Pinnacle Labs,Hospital Pharmacy,Germany,Cold Email
+NHC-1060,Helix Biotech,Contract Research Organisation,South East England,Website Enquiry
+NHC-1069,Clarix Sciences,Licensed Specials Manufacturer,Midlands,LinkedIn Outreach
+NHC-1187,Syntek Pharma,CDMO / Generic Manufacturer,London,LinkedIn Outreach
+NHC-1137,Zenith Biotech,Hospital Pharmacy,Republic of Ireland,Referral
+NHC-1171,Forma Pharma,CDMO / Generic Manufacturer,Germany,Referral
+NHC-1210,Fortis Chemicals,Licensed Specials Manufacturer,Scotland,LinkedIn Outreach
+NHC-1022,Fortis Therapeutics,CDMO / Generic Manufacturer,Scotland,Trade Show
+NHC-1120,Vantage Nutraceuticals,Hospital Pharmacy,North West England,Distributor
+NHC-1042,Meridian Biotech,CDMO / Generic Manufacturer,London,Referral
+NHC-1096,Fortis Biologics,CDMO / Generic Manufacturer,London,Referral
+NHC-1045,Helix Pharma,Licensed Specials Manufacturer,North West England,Distributor
+NHC-1007,Kinara API Ltd,Hospital Pharmacy,Midlands,Website Enquiry
+NHC-1107,Kinara Life Sciences,Licensed Specials Manufacturer,London,Cold Email
+NHC-1116,Meridian Formulations,Contract Research Organisation,South East England,Cold Email
+NHC-1205,Clarix Biotech,Licensed Specials Manufacturer,South East England,Referral
+NHC-1131,Praxis Sciences,CDMO / Generic Manufacturer,North West England,Referral
+NHC-1192,Syntek Chemicals,Contract Research Organisation,North West England,Trade Show
+NHC-1231,Calibra Life Sciences,Nutraceutical Producer,Scotland,Trade Show
+NHC-1077,Solara Biotech,Hospital Pharmacy,London,Distributor
+NHC-1249,Enovis Therapeutics,CDMO / Generic Manufacturer,London,Referral
+NHC-1115,Altum Biotech,Nutraceutical Producer,London,Referral
+NHC-1188,Vitagen Formulations,Hospital Pharmacy,London,Referral
+NHC-1127,Altum Formulations,Retail Pharmacy Chain,Midlands,Trade Show
+NHC-1124,Solara Pharma,CDMO / Generic Manufacturer,South East England,Distributor
+NHC-1225,Helix Labs,Hospital Pharmacy,South East England,Trade Show
+NHC-1228,Meridian Healthcare,Contract Research Organisation,London,Distributor
+NHC-1003,Calibra Medical,Retail Pharmacy Chain,Netherlands,Website Enquiry
+NHC-1237,Pinnacle Formulations,CDMO / Generic Manufacturer,London,LinkedIn Outreach
+NHC-1073,Clarix Chemicals,Retail Pharmacy Chain,North West England,LinkedIn Outreach
+NHC-1027,Orbis Labs,Hospital Pharmacy,Germany,Cold Email
+NHC-1086,Pinnacle Sciences,Hospital Pharmacy,London,Website Enquiry
+NHC-1021,Pinnacle API Ltd,Nutraceutical Producer,Midlands,Cold Email
+NHC-1111,Fortis Nutraceuticals,Hospital Pharmacy,Scotland,Cold Email
+NHC-1238,Fortis Biotech,Hospital Pharmacy,Republic of Ireland,LinkedIn Outreach
+NHC-1248,Enovis Biologics,Hospital Pharmacy,South East England,Trade Show
+NHC-1054,Elara Chemicals,Hospital Pharmacy,Midlands,Trade Show
+NHC-1063,Fortis Pharma,Nutraceutical Producer,Yorkshire,Referral
+NHC-1020,Clarix Labs,Licensed Specials Manufacturer,Germany,LinkedIn Outreach
+NHC-1064,Helix Medical,CDMO / Generic Manufacturer,South East England,Distributor
+NHC-1168,Solara Labs,Hospital Pharmacy,North West England,Website Enquiry
+NHC-1179,Enovis Formulations,Nutraceutical Producer,North West England,LinkedIn Outreach
+NHC-1103,Crest Biotech,Contract Research Organisation,London,Referral
+NHC-1159,Meridian Medical,Hospital Pharmacy,London,LinkedIn Outreach
+NHC-1039,Zenith Formulations,Licensed Specials Manufacturer,Yorkshire,Referral
+NHC-1240,Orbis Therapeutics,Licensed Specials Manufacturer,London,LinkedIn Outreach
+NHC-1130,Syntek Therapeutics,CDMO / Generic Manufacturer,Netherlands,Website Enquiry
+NHC-1184,Forma Medical,CDMO / Generic Manufacturer,Netherlands,Website Enquiry
+NHC-1017,Apex Medical,Nutraceutical Producer,Scotland,Distributor
+NHC-1177,Orbis Medical,CDMO / Generic Manufacturer,Germany,Cold Email
+NHC-1244,Nexus Therapeutics,CDMO / Generic Manufacturer,London,Distributor
+NHC-1001,Fortis API Ltd,Hospital Pharmacy,Scotland,Trade Show
+NHC-1143,Vitagen Life Sciences,Hospital Pharmacy,London,Trade Show
+NHC-1247,Praxis Chemicals,Hospital Pharmacy,South East England,Website Enquiry
+NHC-1047,Clarix Healthcare,Retail Pharmacy Chain,North West England,Trade Show
+NHC-1074,Apex Labs,Retail Pharmacy Chain,Yorkshire,Trade Show
+NHC-1229,Clarix API Ltd,CDMO / Generic Manufacturer,London,Trade Show
+NHC-1140,Helix Nutraceuticals,Hospital Pharmacy,North West England,LinkedIn Outreach
+NHC-1221,Vitagen Biologics,Contract Research Organisation,London,LinkedIn Outreach
+NHC-1200,Enovis Medical,Hospital Pharmacy,Netherlands,Trade Show
+NHC-1199,Biopharma Chemicals,CDMO / Generic Manufacturer,Netherlands,Website Enquiry
+NHC-1083,Enovis Labs,Licensed Specials Manufacturer,Midlands,LinkedIn Outreach
+NHC-1141,Enovis Biotech,Hospital Pharmacy,London,LinkedIn Outreach
+NHC-1125,Kinara Sciences,CDMO / Generic Manufacturer,London,Referral
+NHC-1129,Elara Therapeutics,Retail Pharmacy Chain,Wales,Cold Email
+NHC-1165,Altum Biologics,Contract Research Organisation,Midlands,Cold Email
+NHC-1076,Altum Healthcare,Contract Research Organisation,London,Referral
+NHC-1226,Crest Sciences,CDMO / Generic Manufacturer,Scotland,LinkedIn Outreach
+NHC-1052,Forma Labs,Licensed Specials Manufacturer,Wales,Distributor
+NHC-1155,Vantage Labs,CDMO / Generic Manufacturer,Wales,Website Enquiry
+NHC-1157,Zenith Sciences,Hospital Pharmacy,Midlands,Website Enquiry
+NHC-1202,Centrix Life Sciences,CDMO / Generic Manufacturer,Republic of Ireland,LinkedIn Outreach
+NHC-1128,Vantage API Ltd,Hospital Pharmacy,Republic of Ireland,Trade Show
+NHC-1167,Pinnacle Therapeutics,Retail Pharmacy Chain,London,Referral
+NHC-1102,Nexus Biotech,Hospital Pharmacy,Republic of Ireland,Trade Show
+NHC-1181,Apex Formulations,Hospital Pharmacy,London,LinkedIn Outreach
+NHC-1214,Elara Pharma,Contract Research Organisation,Wales,Trade Show
+NHC-1154,Vitagen API Ltd,Retail Pharmacy Chain,Midlands,Trade Show
+NHC-1016,Centrix Healthcare,Hospital Pharmacy,Germany,LinkedIn Outreach
+NHC-1030,Centrix Biologics,Hospital Pharmacy,Midlands,Trade Show
+NHC-1037,Apex Life Sciences,Nutraceutical Producer,South East England,Referral
+NHC-1040,Biopharma Sciences,CDMO / Generic Manufacturer,Wales,Referral
+NHC-1139,Praxis Therapeutics,Retail Pharmacy Chain,London,Cold Email
+NHC-1005,Meridian Labs,CDMO / Generic Manufacturer,North West England,Cold Email
+NHC-1241,Kinara Pharma,Licensed Specials Manufacturer,London,LinkedIn Outreach
+NHC-1170,Syntek Labs,CDMO / Generic Manufacturer,North West England,Trade Show
+NHC-1062,Solara Healthcare,Retail Pharmacy Chain,London,LinkedIn Outreach
+NHC-1122,Lumex Chemicals,Hospital Pharmacy,London,Distributor
+NHC-1204,Crest Biologics,Retail Pharmacy Chain,North West England,LinkedIn Outreach
+NHC-1234,Helix Sciences,Retail Pharmacy Chain,North West England,LinkedIn Outreach
+NHC-1089,Pinnacle Medical,Retail Pharmacy Chain,South East England,Trade Show
+NHC-1013,Vantage Chemicals,Contract Research Organisation,Germany,LinkedIn Outreach
+NHC-1146,Kinara Biologics,CDMO / Generic Manufacturer,Yorkshire,Cold Email
+NHC-1031,Orbis Biologics,Hospital Pharmacy,South East England,Trade Show
+NHC-1098,Elara Biotech,CDMO / Generic Manufacturer,North West England,Referral
+NHC-1024,Solara Biologics,Licensed Specials Manufacturer,London,Trade Show
+NHC-1053,Calibra Healthcare,Hospital Pharmacy,London,Referral
+NHC-1011,Altum Labs,Retail Pharmacy Chain,Germany,LinkedIn Outreach
+NHC-1236,Vantage Biotech,Licensed Specials Manufacturer,Republic of Ireland,Website Enquiry
+NHC-1191,Fortis Formulations,Licensed Specials Manufacturer,Scotland,LinkedIn Outreach
+NHC-1072,Zenith Medical,Contract Research Organisation,South East England,LinkedIn Outreach
+NHC-1162,Helix Healthcare,Hospital Pharmacy,London,Cold Email
+NHC-1142,Praxis Nutraceuticals,Hospital Pharmacy,London,Trade Show
+NHC-1036,Pinnacle Biologics,Hospital Pharmacy,Midlands,Referral
+NHC-1009,Zenith Biologics,Licensed Specials Manufacturer,Germany,LinkedIn Outreach
+NHC-1080,Helix Formulations,Contract Research Organisation,Midlands,Website Enquiry
+NHC-1041,Enovis Healthcare,Licensed Specials Manufacturer,Netherlands,Cold Email
+NHC-1109,Nexus Nutraceuticals,Hospital Pharmacy,Yorkshire,LinkedIn Outreach
+NHC-1025,Apex Sciences,Retail Pharmacy Chain,Germany,Trade Show
+NHC-1213,Elara Medical,Retail Pharmacy Chain,South East England,Trade Show
+NHC-1087,Nexus Sciences,Hospital Pharmacy,South East England,Trade Show
+NHC-1079,Vitagen Healthcare,CDMO / Generic Manufacturer,Midlands,Trade Show
+NHC-1245,Elara Nutraceuticals,Hospital Pharmacy,Wales,LinkedIn Outreach
+NHC-1050,Forma Sciences,Contract Research Organisation,Yorkshire,Distributor
+NHC-1150,Orbis Nutraceuticals,CDMO / Generic Manufacturer,Scotland,Distributor
+NHC-1175,Pinnacle Pharma,Contract Research Organisation,Midlands,Trade Show
+NHC-1148,Crest Formulations,CDMO / Generic Manufacturer,Scotland,Trade Show
+NHC-1209,Solara Sciences,Nutraceutical Producer,Republic of Ireland,LinkedIn Outreach
+NHC-1118,Fortis Medical,Hospital Pharmacy,South East England,Referral
+NHC-1046,Centrix Nutraceuticals,Hospital Pharmacy,Midlands,Website Enquiry
+NHC-1032,Orbis Sciences,CDMO / Generic Manufacturer,South East England,Referral
+NHC-1201,Lumex Life Sciences,Contract Research Organisation,Germany,LinkedIn Outreach
+NHC-1243,Pinnacle Chemicals,Licensed Specials Manufacturer,South East England,Cold Email
+NHC-1147,Syntek Sciences,Licensed Specials Manufacturer,Germany,Website Enquiry
+NHC-1117,Kinara Therapeutics,Nutraceutical Producer,North West England,LinkedIn Outreach
+NHC-1114,Meridian Pharma,Retail Pharmacy Chain,London,Cold Email
+NHC-1239,Pinnacle Life Sciences,Hospital Pharmacy,Germany,Website Enquiry
+NHC-1152,Kinara Medical,CDMO / Generic Manufacturer,South East England,LinkedIn Outreach
+NHC-1193,Apex Therapeutics,CDMO / Generic Manufacturer,Germany,LinkedIn Outreach
+NHC-1067,Apex Pharma,Retail Pharmacy Chain,Germany,Trade Show
+NHC-1222,Forma Biotech,CDMO / Generic Manufacturer,London,Trade Show
+NHC-1092,Zenith Life Sciences,Nutraceutical Producer,South East England,Trade Show
+NHC-1088,Altum Medical,Hospital Pharmacy,Scotland,LinkedIn Outreach
+NHC-1133,Altum Pharma,CDMO / Generic Manufacturer,Yorkshire,Distributor
+NHC-1099,Meridian API Ltd,CDMO / Generic Manufacturer,South East England,Referral
+NHC-1035,Centrix API Ltd,CDMO / Generic Manufacturer,Wales,Referral
+NHC-1014,Zenith Therapeutics,CDMO / Generic Manufacturer,South East England,Referral
+NHC-1198,Lumex Medical,Retail Pharmacy Chain,Scotland,Website Enquiry
+NHC-1207,Solara Medical,CDMO / Generic Manufacturer,South East England,LinkedIn Outreach
+NHC-1220,Syntek Life Sciences,CDMO / Generic Manufacturer,Wales,Trade Show
+NHC-1010,Vitagen Pharma,Licensed Specials Manufacturer,Yorkshire,LinkedIn Outreach
+NHC-1219,Centrix Medical,Hospital Pharmacy,Scotland,LinkedIn Outreach
+NHC-1110,Nexus Biologics,Licensed Specials Manufacturer,Wales,Website Enquiry
+NHC-1135,Pinnacle Healthcare,CDMO / Generic Manufacturer,Midlands,LinkedIn Outreach
+NHC-1059,Praxis Biologics,Nutraceutical Producer,London,LinkedIn Outreach
+NHC-1161,Lumex Biotech,CDMO / Generic Manufacturer,Midlands,LinkedIn Outreach
+NHC-1227,Calibra Chemicals,Retail Pharmacy Chain,Yorkshire,LinkedIn Outreach
+NHC-1232,Centrix Chemicals,Licensed Specials Manufacturer,Germany,LinkedIn Outreach
+NHC-1049,Biopharma API Ltd,Contract Research Organisation,Midlands,LinkedIn Outreach
+NHC-1033,Apex Nutraceuticals,Nutraceutical Producer,Yorkshire,Distributor
+NHC-1055,Lumex Therapeutics,Hospital Pharmacy,Scotland,LinkedIn Outreach
+NHC-1105,Syntek API Ltd,Licensed Specials Manufacturer,London,LinkedIn Outreach
+NHC-1169,Praxis Labs,Contract Research Organisation,Republic of Ireland,Distributor
+NHC-1189,Centrix Labs,CDMO / Generic Manufacturer,South East England,Cold Email
+NHC-1095,Clarix Life Sciences,Retail Pharmacy Chain,Midlands,Referral
+NHC-1075,Nexus Chemicals,CDMO / Generic Manufacturer,Midlands,Referral
+NHC-1121,Lumex Biologics,Nutraceutical Producer,Midlands,Referral
+NHC-1019,Apex Healthcare,Retail Pharmacy Chain,South East England,Referral
+NHC-1051,Praxis API Ltd,Retail Pharmacy Chain,London,Cold Email
+NHC-1235,Centrix Formulations,CDMO / Generic Manufacturer,Netherlands,Trade Show
+NHC-1136,Clarix Pharma,Licensed Specials Manufacturer,Germany,Trade Show
+NHC-1070,Solara Chemicals,Nutraceutical Producer,North West England,Referral
+NHC-1093,Praxis Healthcare,Retail Pharmacy Chain,London,Website Enquiry
+NHC-1217,Clarix Nutraceuticals,CDMO / Generic Manufacturer,North West England,LinkedIn Outreach
+NHC-1071,Solara API Ltd,CDMO / Generic Manufacturer,North West England,Trade Show
+NHC-1061,Syntek Healthcare,Licensed Specials Manufacturer,Wales,Trade Show
+NHC-1166,Crest Pharma,Hospital Pharmacy,Wales,Cold Email
+NHC-1100,Fortis Labs,CDMO / Generic Manufacturer,Germany,Distributor
+NHC-1113,Elara Sciences,Licensed Specials Manufacturer,Midlands,Referral
+NHC-1101,Nexus Pharma,CDMO / Generic Manufacturer,Yorkshire,Trade Show
+NHC-1048,Clarix Formulations,Licensed Specials Manufacturer,Netherlands,Referral
+NHC-1218,Forma Biologics,Hospital Pharmacy,London,Cold Email
+NHC-1043,Altum Sciences,Retail Pharmacy Chain,Midlands,Trade Show
+NHC-1078,Vitagen Therapeutics,Retail Pharmacy Chain,Germany,Distributor
+NHC-1151,Biopharma Biotech,Licensed Specials Manufacturer,South East England,Trade Show
+NHC-1172,Forma Therapeutics,Retail Pharmacy Chain,London,Website Enquiry
+NHC-1197,Apex API Ltd,Nutraceutical Producer,Yorkshire,Trade Show
+NHC-1206,Vitagen Sciences,CDMO / Generic Manufacturer,London,LinkedIn Outreach
+NHC-1068,Biopharma Formulations,CDMO / Generic Manufacturer,South East England,Referral
+NHC-1108,Altum Nutraceuticals,Hospital Pharmacy,Scotland,Website Enquiry
+NHC-1015,Helix Chemicals,Licensed Specials Manufacturer,Netherlands,Referral
+NHC-1082,Forma Healthcare,Nutraceutical Producer,South East England,Cold Email
+NHC-1123,Zenith Labs,Retail Pharmacy Chain,South East England,Referral
+NHC-1144,Calibra Biologics,Hospital Pharmacy,North West England,Referral
+NHC-1056,Fortis Life Sciences,Hospital Pharmacy,South East England,LinkedIn Outreach
+NHC-1058,Crest Nutraceuticals,Nutraceutical Producer,Wales,Distributor
+NHC-1006,Orbis Chemicals,Nutraceutical Producer,London,Cold Email
+NHC-1138,Crest Therapeutics,Contract Research Organisation,South East England,Website Enquiry
+NHC-1044,Nexus Labs,Hospital Pharmacy,London,Cold Email
+NHC-1208,Forma Chemicals,CDMO / Generic Manufacturer,London,Referral
+NHC-1029,Praxis Formulations,Retail Pharmacy Chain,North West England,Trade Show
+NHC-1134,Orbis Healthcare,CDMO / Generic Manufacturer,London,Website Enquiry
+NHC-1090,Praxis Biotech,Retail Pharmacy Chain,South East England,LinkedIn Outreach
+NHC-1126,Elara Life Sciences,Hospital Pharmacy,Yorkshire,LinkedIn Outreach
+NHC-1057,Orbis Life Sciences,Retail Pharmacy Chain,Midlands,Website Enquiry
+NHC-1145,Enovis Nutraceuticals,Retail Pharmacy Chain,Scotland,LinkedIn Outreach
+NHC-1186,Zenith Healthcare,Licensed Specials Manufacturer,South East England,LinkedIn Outreach
+NHC-1180,Pinnacle Biotech,Retail Pharmacy Chain,Netherlands,Distributor
+NHC-1195,Vantage Pharma,Licensed Specials Manufacturer,Republic of Ireland,Referral
+NHC-1023,Kinara Healthcare,CDMO / Generic Manufacturer,Midlands,Trade Show
+NHC-1182,Altum API Ltd,Retail Pharmacy Chain,Republic of Ireland,Distributor
+NHC-1132,Nexus API Ltd,CDMO / Generic Manufacturer,Germany,Distributor
+NHC-1156,Vitagen Biotech,Contract Research Organisation,Scotland,Distributor
+NHC-1034,Lumex Healthcare,Hospital Pharmacy,Netherlands,Cold Email
+NHC-1081,Helix Therapeutics,Licensed Specials Manufacturer,South East England,Website Enquiry
+NHC-1028,Calibra Nutraceuticals,Hospital Pharmacy,Republic of Ireland,Distributor
+NHC-1242,Lumex Nutraceuticals,Licensed Specials Manufacturer,North West England,Referral
+NHC-1084,Calibra Pharma,Hospital Pharmacy,London,Cold Email
+NHC-1091,Lumex Formulations,CDMO / Generic Manufacturer,London,Website Enquiry
+NHC-1223,Vantage Medical,Hospital Pharmacy,Netherlands,Website Enquiry
+NHC-1119,Meridian Life Sciences,Retail Pharmacy Chain,Yorkshire,Trade Show
+NHC-1246,Centrix Sciences,CDMO / Generic Manufacturer,London,Distributor
+NHC-1112,Solara Nutraceuticals,Licensed Specials Manufacturer,South East England,Website Enquiry
+NHC-1153,Zenith API Ltd,Licensed Specials Manufacturer,South East England,LinkedIn Outreach
+NHC-1066,Zenith Chemicals,Nutraceutical Producer,South East England,LinkedIn Outreach
+NHC-1173,Praxis Life Sciences,Retail Pharmacy Chain,London,Website Enquiry
+NHC-1178,Orbis Biotech,Retail Pharmacy Chain,North West England,Referral
+NHC-1163,Kinara Nutraceuticals,CDMO / Generic Manufacturer,Yorkshire,Trade Show
+NHC-1038,Elara API Ltd,Hospital Pharmacy,North West England,LinkedIn Outreach
+NHC-1106,Biopharma Healthcare,Licensed Specials Manufacturer,Midlands,Website Enquiry
+NHC-1097,Elara Formulations,Contract Research Organisation,Republic of Ireland,Distributor
+NHC-1065,Biopharma Pharma,Hospital Pharmacy,Republic of Ireland,Cold Email
+NHC-1149,Apex Biologics,Licensed Specials Manufacturer,Wales,Trade Show
+NHC-1085,Lumex API Ltd,Nutraceutical Producer,London,Referral
+NHC-1233,Kinara Formulations,Licensed Specials Manufacturer,Germany,Website Enquiry
+NHC-1004,Clarix Therapeutics,CDMO / Generic Manufacturer,Midlands,Cold Email
+NHC-1230,Calibra Therapeutics,Contract Research Organisation,South East England,LinkedIn Outreach
+NHC-1183,Forma Nutraceuticals,Licensed Specials Manufacturer,Wales,LinkedIn Outreach
+NHC-1176,Fortis Healthcare,CDMO / Generic Manufacturer,Republic of Ireland,Cold Email
+NHC-1008,Lumex Labs,Nutraceutical Producer,Yorkshire,LinkedIn Outreach
+NHC-1194,Calibra Labs,Retail Pharmacy Chain,South East England,Referral
+NHC-1174,Calibra Sciences,Licensed Specials Manufacturer,London,Cold Email
+NHC-1002,Elara Healthcare,CDMO / Generic Manufacturer,Republic of Ireland,Website Enquiry
+NHC-1185,Altum Life Sciences,Retail Pharmacy Chain,London,Trade Show
+NHC-1018,Enovis Sciences,Hospital Pharmacy,Scotland,Cold Email

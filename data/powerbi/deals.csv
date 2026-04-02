@@ -1,0 +1,251 @@
+deal_id,customer_id,product,deal_size_gbp,pipeline_stage,win_probability,outcome,created_date
+DEAL-1160,NHC-1160,Oleochemicals / Lubricants,6900.0,Prospect,17,,2023-08-05
+DEAL-1212,NHC-1212,Organic Chemicals / Binders,19100.0,Negotiation,56,,2023-08-06
+DEAL-1164,NHC-1164,Oleochemicals / Lubricants,25500.0,Contacted,15,,2023-08-09
+DEAL-1224,NHC-1224,Film Coating Excipients,90800.0,Closed Lost,6,0.0,2023-08-13
+DEAL-1196,NHC-1196,Oleochemicals / Lubricants,48000.0,Quoted,38,,2023-08-15
+DEAL-1094,NHC-1094,Organic Chemicals / Binders,29500.0,Negotiation,61,,2023-08-16
+DEAL-1000,NHC-1000,Film Coating Excipients,36500.0,Negotiation,54,,2023-08-16
+DEAL-1203,NHC-1203,Film Coating Excipients,29300.0,Quoted,42,,2023-08-20
+DEAL-1026,NHC-1026,Oleochemicals / Lubricants,17900.0,Prospect,4,,2023-08-24
+DEAL-1215,NHC-1215,Organic Chemicals / Binders,29100.0,Negotiation,67,,2023-08-24
+DEAL-1158,NHC-1158,Organic Chemicals / Binders,18500.0,Closed Won,97,1.0,2023-08-24
+DEAL-1216,NHC-1216,Film Coating Excipients,32700.0,Contacted,30,,2023-08-24
+DEAL-1104,NHC-1104,Organic Chemicals / Binders,22600.0,Contacted,29,,2023-08-25
+DEAL-1211,NHC-1211,Film Coating Excipients,8500.0,Contacted,30,,2023-09-02
+DEAL-1012,NHC-1012,Oleochemicals / Lubricants,30100.0,Prospect,2,,2023-09-08
+DEAL-1190,NHC-1190,Oleochemicals / Lubricants,25200.0,Negotiation,62,,2023-09-10
+DEAL-1060,NHC-1060,Oleochemicals / Lubricants,14300.0,Quoted,46,,2023-09-16
+DEAL-1069,NHC-1069,Organic Chemicals / Binders,28100.0,Quoted,43,,2023-09-16
+DEAL-1187,NHC-1187,Film Coating Excipients,50900.0,Negotiation,56,,2023-09-19
+DEAL-1137,NHC-1137,Oleochemicals / Lubricants,24800.0,Contacted,26,,2023-09-20
+DEAL-1171,NHC-1171,Film Coating Excipients,91200.0,Negotiation,58,,2023-09-23
+DEAL-1210,NHC-1210,Organic Chemicals / Binders,41700.0,Closed Won,100,1.0,2023-09-27
+DEAL-1022,NHC-1022,Organic Chemicals / Binders,67400.0,Prospect,3,,2023-09-29
+DEAL-1120,NHC-1120,Organic Chemicals / Binders,18400.0,Prospect,16,,2023-09-29
+DEAL-1042,NHC-1042,Organic Chemicals / Binders,80500.0,Negotiation,61,,2023-09-30
+DEAL-1096,NHC-1096,Oleochemicals / Lubricants,52400.0,Contacted,28,,2023-10-02
+DEAL-1045,NHC-1045,Organic Chemicals / Binders,19100.0,Closed Won,100,1.0,2023-10-03
+DEAL-1007,NHC-1007,Mixed Excipient Bundle,9500.0,Contacted,30,,2023-10-18
+DEAL-1107,NHC-1107,Film Coating Excipients,18400.0,Closed Won,100,1.0,2023-10-23
+DEAL-1116,NHC-1116,Organic Chemicals / Binders,10000.0,Quoted,42,,2023-10-23
+DEAL-1205,NHC-1205,Oleochemicals / Lubricants,26700.0,Contacted,18,,2023-10-24
+DEAL-1131,NHC-1131,Film Coating Excipients,76800.0,Closed Lost,7,0.0,2023-10-26
+DEAL-1192,NHC-1192,Film Coating Excipients,7000.0,Quoted,44,,2023-10-28
+DEAL-1231,NHC-1231,Organic Chemicals / Binders,13900.0,Contacted,20,,2023-10-29
+DEAL-1077,NHC-1077,Organic Chemicals / Binders,11400.0,Contacted,28,,2023-10-30
+DEAL-1249,NHC-1249,Mixed Excipient Bundle,65800.0,Prospect,6,,2023-11-02
+DEAL-1115,NHC-1115,Organic Chemicals / Binders,26500.0,Negotiation,57,,2023-11-04
+DEAL-1188,NHC-1188,Oleochemicals / Lubricants,14700.0,Closed Won,100,1.0,2023-11-04
+DEAL-1127,NHC-1127,Oleochemicals / Lubricants,25000.0,Negotiation,56,,2023-11-13
+DEAL-1124,NHC-1124,Film Coating Excipients,80300.0,Negotiation,55,,2023-11-14
+DEAL-1225,NHC-1225,Oleochemicals / Lubricants,21800.0,Prospect,6,,2023-11-14
+DEAL-1228,NHC-1228,Oleochemicals / Lubricants,3600.0,Closed Won,100,1.0,2023-11-16
+DEAL-1003,NHC-1003,Oleochemicals / Lubricants,34700.0,Contacted,21,,2023-11-16
+DEAL-1237,NHC-1237,Oleochemicals / Lubricants,91800.0,Prospect,15,,2023-11-19
+DEAL-1073,NHC-1073,Film Coating Excipients,23500.0,Prospect,11,,2023-11-19
+DEAL-1027,NHC-1027,Organic Chemicals / Binders,8700.0,Contacted,17,,2023-11-21
+DEAL-1086,NHC-1086,Oleochemicals / Lubricants,16200.0,Contacted,26,,2023-11-22
+DEAL-1021,NHC-1021,Oleochemicals / Lubricants,21400.0,Contacted,21,,2023-11-22
+DEAL-1111,NHC-1111,Oleochemicals / Lubricants,17100.0,Closed Won,100,1.0,2023-11-24
+DEAL-1238,NHC-1238,Oleochemicals / Lubricants,23100.0,Negotiation,60,,2023-11-26
+DEAL-1248,NHC-1248,Oleochemicals / Lubricants,10000.0,Closed Lost,0,0.0,2023-11-26
+DEAL-1054,NHC-1054,Film Coating Excipients,28900.0,Negotiation,57,,2023-11-29
+DEAL-1063,NHC-1063,Oleochemicals / Lubricants,21200.0,Closed Lost,3,0.0,2023-11-29
+DEAL-1020,NHC-1020,Mixed Excipient Bundle,40700.0,Contacted,24,,2023-11-30
+DEAL-1064,NHC-1064,Mixed Excipient Bundle,34300.0,Closed Won,98,1.0,2023-12-03
+DEAL-1168,NHC-1168,Film Coating Excipients,23500.0,Prospect,7,,2023-12-04
+DEAL-1179,NHC-1179,Organic Chemicals / Binders,13900.0,Contacted,15,,2023-12-05
+DEAL-1103,NHC-1103,Organic Chemicals / Binders,4500.0,Contacted,20,,2023-12-06
+DEAL-1159,NHC-1159,Mixed Excipient Bundle,12500.0,Negotiation,66,,2023-12-07
+DEAL-1039,NHC-1039,Organic Chemicals / Binders,26200.0,Quoted,37,,2023-12-07
+DEAL-1240,NHC-1240,Organic Chemicals / Binders,37300.0,Closed Won,100,1.0,2023-12-09
+DEAL-1130,NHC-1130,Organic Chemicals / Binders,49900.0,Closed Lost,2,0.0,2023-12-12
+DEAL-1184,NHC-1184,Film Coating Excipients,67200.0,Prospect,5,,2023-12-14
+DEAL-1017,NHC-1017,Organic Chemicals / Binders,24000.0,Negotiation,63,,2023-12-14
+DEAL-1177,NHC-1177,Organic Chemicals / Binders,50900.0,Quoted,39,,2023-12-19
+DEAL-1244,NHC-1244,Organic Chemicals / Binders,36400.0,Quoted,38,,2023-12-20
+DEAL-1001,NHC-1001,Oleochemicals / Lubricants,26700.0,Quoted,44,,2023-12-21
+DEAL-1143,NHC-1143,Organic Chemicals / Binders,29200.0,Negotiation,60,,2023-12-22
+DEAL-1247,NHC-1247,Organic Chemicals / Binders,28900.0,Contacted,19,,2023-12-26
+DEAL-1047,NHC-1047,Film Coating Excipients,35400.0,Contacted,22,,2023-12-26
+DEAL-1074,NHC-1074,Organic Chemicals / Binders,17600.0,Contacted,27,,2023-12-27
+DEAL-1229,NHC-1229,Organic Chemicals / Binders,61700.0,Prospect,17,,2023-12-27
+DEAL-1140,NHC-1140,Organic Chemicals / Binders,20000.0,Contacted,21,,2023-12-28
+DEAL-1221,NHC-1221,Oleochemicals / Lubricants,13600.0,Closed Won,100,1.0,2023-12-29
+DEAL-1200,NHC-1200,Oleochemicals / Lubricants,14000.0,Negotiation,59,,2023-12-29
+DEAL-1199,NHC-1199,Organic Chemicals / Binders,68900.0,Contacted,15,,2023-12-30
+DEAL-1083,NHC-1083,Film Coating Excipients,21700.0,Closed Lost,0,0.0,2023-12-30
+DEAL-1141,NHC-1141,Organic Chemicals / Binders,6600.0,Contacted,29,,2024-01-01
+DEAL-1125,NHC-1125,Organic Chemicals / Binders,36000.0,Negotiation,55,,2024-01-02
+DEAL-1129,NHC-1129,Mixed Excipient Bundle,32800.0,Negotiation,68,,2024-01-05
+DEAL-1165,NHC-1165,Film Coating Excipients,9000.0,Closed Won,100,1.0,2024-01-06
+DEAL-1076,NHC-1076,Mixed Excipient Bundle,6600.0,Negotiation,56,,2024-01-06
+DEAL-1226,NHC-1226,Film Coating Excipients,49400.0,Prospect,4,,2024-01-09
+DEAL-1052,NHC-1052,Organic Chemicals / Binders,36600.0,Closed Won,96,1.0,2024-01-10
+DEAL-1155,NHC-1155,Oleochemicals / Lubricants,80000.0,Quoted,48,,2024-01-13
+DEAL-1157,NHC-1157,Film Coating Excipients,22400.0,Closed Won,100,1.0,2024-01-15
+DEAL-1202,NHC-1202,Film Coating Excipients,29000.0,Contacted,28,,2024-01-18
+DEAL-1128,NHC-1128,Film Coating Excipients,24000.0,Quoted,35,,2024-01-18
+DEAL-1167,NHC-1167,Mixed Excipient Bundle,12100.0,Closed Won,94,1.0,2024-01-19
+DEAL-1102,NHC-1102,Oleochemicals / Lubricants,16000.0,Prospect,13,,2024-01-22
+DEAL-1181,NHC-1181,Film Coating Excipients,16900.0,Quoted,36,,2024-01-22
+DEAL-1214,NHC-1214,Film Coating Excipients,15400.0,Prospect,12,,2024-01-22
+DEAL-1154,NHC-1154,Film Coating Excipients,15900.0,Negotiation,61,,2024-01-26
+DEAL-1016,NHC-1016,Mixed Excipient Bundle,6800.0,Negotiation,68,,2024-01-26
+DEAL-1030,NHC-1030,Film Coating Excipients,5500.0,Closed Lost,0,0.0,2024-01-28
+DEAL-1037,NHC-1037,Organic Chemicals / Binders,24700.0,Contacted,22,,2024-01-29
+DEAL-1040,NHC-1040,Film Coating Excipients,93500.0,Closed Won,96,1.0,2024-02-01
+DEAL-1139,NHC-1139,Film Coating Excipients,11400.0,Negotiation,67,,2024-02-01
+DEAL-1005,NHC-1005,Oleochemicals / Lubricants,75400.0,Prospect,3,,2024-02-02
+DEAL-1241,NHC-1241,Oleochemicals / Lubricants,28100.0,Quoted,40,,2024-02-02
+DEAL-1170,NHC-1170,Film Coating Excipients,40500.0,Closed Won,99,1.0,2024-02-05
+DEAL-1062,NHC-1062,Film Coating Excipients,15500.0,Closed Lost,0,0.0,2024-02-06
+DEAL-1122,NHC-1122,Oleochemicals / Lubricants,9500.0,Quoted,36,,2024-02-12
+DEAL-1204,NHC-1204,Film Coating Excipients,36100.0,Negotiation,55,,2024-02-13
+DEAL-1234,NHC-1234,Organic Chemicals / Binders,19800.0,Quoted,42,,2024-02-15
+DEAL-1089,NHC-1089,Film Coating Excipients,29400.0,Quoted,40,,2024-02-16
+DEAL-1013,NHC-1013,Oleochemicals / Lubricants,16500.0,Quoted,47,,2024-02-16
+DEAL-1146,NHC-1146,Organic Chemicals / Binders,57900.0,Negotiation,57,,2024-02-17
+DEAL-1031,NHC-1031,Organic Chemicals / Binders,9100.0,Negotiation,68,,2024-02-18
+DEAL-1098,NHC-1098,Organic Chemicals / Binders,65100.0,Quoted,34,,2024-02-20
+DEAL-1024,NHC-1024,Oleochemicals / Lubricants,50700.0,Contacted,26,,2024-02-23
+DEAL-1053,NHC-1053,Organic Chemicals / Binders,18100.0,Closed Won,100,1.0,2024-02-26
+DEAL-1011,NHC-1011,Organic Chemicals / Binders,11000.0,Quoted,33,,2024-02-27
+DEAL-1236,NHC-1236,Film Coating Excipients,20000.0,Closed Won,100,1.0,2024-02-29
+DEAL-1191,NHC-1191,Oleochemicals / Lubricants,31700.0,Quoted,35,,2024-02-29
+DEAL-1072,NHC-1072,Film Coating Excipients,17600.0,Negotiation,64,,2024-03-02
+DEAL-1162,NHC-1162,Organic Chemicals / Binders,8500.0,Closed Won,94,1.0,2024-03-07
+DEAL-1142,NHC-1142,Film Coating Excipients,14500.0,Closed Lost,0,0.0,2024-03-08
+DEAL-1036,NHC-1036,Oleochemicals / Lubricants,18000.0,Prospect,10,,2024-03-11
+DEAL-1009,NHC-1009,Organic Chemicals / Binders,20600.0,Quoted,34,,2024-03-12
+DEAL-1080,NHC-1080,Oleochemicals / Lubricants,12700.0,Closed Lost,4,0.0,2024-03-12
+DEAL-1041,NHC-1041,Organic Chemicals / Binders,49500.0,Prospect,17,,2024-03-13
+DEAL-1109,NHC-1109,Oleochemicals / Lubricants,28700.0,Negotiation,60,,2024-03-13
+DEAL-1025,NHC-1025,Organic Chemicals / Binders,17200.0,Quoted,37,,2024-03-14
+DEAL-1213,NHC-1213,Film Coating Excipients,20100.0,Quoted,35,,2024-03-15
+DEAL-1087,NHC-1087,Mixed Excipient Bundle,27900.0,Prospect,6,,2024-03-17
+DEAL-1079,NHC-1079,Film Coating Excipients,65400.0,Contacted,18,,2024-03-18
+DEAL-1245,NHC-1245,Film Coating Excipients,13700.0,Contacted,30,,2024-03-20
+DEAL-1050,NHC-1050,Film Coating Excipients,9200.0,Contacted,30,,2024-03-21
+DEAL-1150,NHC-1150,Organic Chemicals / Binders,48200.0,Contacted,18,,2024-03-22
+DEAL-1175,NHC-1175,Film Coating Excipients,17300.0,Closed Won,99,1.0,2024-03-24
+DEAL-1148,NHC-1148,Film Coating Excipients,31400.0,Prospect,15,,2024-03-24
+DEAL-1209,NHC-1209,Oleochemicals / Lubricants,20200.0,Prospect,11,,2024-03-25
+DEAL-1118,NHC-1118,Film Coating Excipients,14000.0,Quoted,41,,2024-03-26
+DEAL-1046,NHC-1046,Organic Chemicals / Binders,28800.0,Negotiation,67,,2024-03-28
+DEAL-1032,NHC-1032,Film Coating Excipients,75900.0,Contacted,16,,2024-03-28
+DEAL-1201,NHC-1201,Oleochemicals / Lubricants,15800.0,Contacted,27,,2024-03-29
+DEAL-1243,NHC-1243,Organic Chemicals / Binders,53500.0,Negotiation,65,,2024-03-29
+DEAL-1147,NHC-1147,Film Coating Excipients,26800.0,Negotiation,63,,2024-03-31
+DEAL-1117,NHC-1117,Oleochemicals / Lubricants,7900.0,Closed Won,99,1.0,2024-04-01
+DEAL-1114,NHC-1114,Organic Chemicals / Binders,38900.0,Prospect,3,,2024-04-01
+DEAL-1239,NHC-1239,Oleochemicals / Lubricants,27500.0,Quoted,45,,2024-04-03
+DEAL-1152,NHC-1152,Organic Chemicals / Binders,56100.0,Contacted,21,,2024-04-07
+DEAL-1193,NHC-1193,Film Coating Excipients,80900.0,Negotiation,68,,2024-04-08
+DEAL-1067,NHC-1067,Oleochemicals / Lubricants,40000.0,Negotiation,58,,2024-04-08
+DEAL-1222,NHC-1222,Film Coating Excipients,21100.0,Prospect,12,,2024-04-08
+DEAL-1092,NHC-1092,Film Coating Excipients,25700.0,Closed Won,94,1.0,2024-04-11
+DEAL-1088,NHC-1088,Organic Chemicals / Binders,24800.0,Contacted,21,,2024-04-12
+DEAL-1133,NHC-1133,Mixed Excipient Bundle,19300.0,Negotiation,70,,2024-04-14
+DEAL-1099,NHC-1099,Film Coating Excipients,60500.0,Quoted,37,,2024-04-14
+DEAL-1035,NHC-1035,Oleochemicals / Lubricants,21200.0,Prospect,5,,2024-04-16
+DEAL-1014,NHC-1014,Mixed Excipient Bundle,22400.0,Quoted,39,,2024-04-17
+DEAL-1198,NHC-1198,Film Coating Excipients,24700.0,Closed Won,100,1.0,2024-04-18
+DEAL-1207,NHC-1207,Oleochemicals / Lubricants,58100.0,Negotiation,69,,2024-04-18
+DEAL-1220,NHC-1220,Film Coating Excipients,25900.0,Contacted,24,,2024-04-18
+DEAL-1010,NHC-1010,Film Coating Excipients,21800.0,Prospect,6,,2024-04-20
+DEAL-1219,NHC-1219,Film Coating Excipients,22800.0,Contacted,15,,2024-04-24
+DEAL-1110,NHC-1110,Mixed Excipient Bundle,17900.0,Negotiation,64,,2024-04-26
+DEAL-1135,NHC-1135,Organic Chemicals / Binders,56500.0,Prospect,17,,2024-04-27
+DEAL-1059,NHC-1059,Organic Chemicals / Binders,15100.0,Closed Lost,7,0.0,2024-04-28
+DEAL-1161,NHC-1161,Oleochemicals / Lubricants,47500.0,Contacted,20,,2024-04-28
+DEAL-1227,NHC-1227,Oleochemicals / Lubricants,20600.0,Closed Lost,1,0.0,2024-04-30
+DEAL-1232,NHC-1232,Film Coating Excipients,45100.0,Prospect,13,,2024-05-05
+DEAL-1049,NHC-1049,Oleochemicals / Lubricants,6600.0,Closed Lost,6,0.0,2024-05-09
+DEAL-1033,NHC-1033,Oleochemicals / Lubricants,9400.0,Prospect,7,,2024-05-15
+DEAL-1055,NHC-1055,Mixed Excipient Bundle,14400.0,Closed Won,100,1.0,2024-05-16
+DEAL-1105,NHC-1105,Film Coating Excipients,29300.0,Contacted,16,,2024-05-18
+DEAL-1169,NHC-1169,Organic Chemicals / Binders,9200.0,Negotiation,59,,2024-05-19
+DEAL-1189,NHC-1189,Film Coating Excipients,60600.0,Negotiation,55,,2024-05-20
+DEAL-1095,NHC-1095,Organic Chemicals / Binders,38400.0,Quoted,40,,2024-05-20
+DEAL-1075,NHC-1075,Oleochemicals / Lubricants,19400.0,Closed Won,92,1.0,2024-05-20
+DEAL-1121,NHC-1121,Organic Chemicals / Binders,6500.0,Prospect,4,,2024-05-23
+DEAL-1019,NHC-1019,Oleochemicals / Lubricants,10400.0,Quoted,41,,2024-05-25
+DEAL-1051,NHC-1051,Film Coating Excipients,24200.0,Closed Won,100,1.0,2024-05-27
+DEAL-1235,NHC-1235,Organic Chemicals / Binders,61900.0,Negotiation,70,,2024-05-27
+DEAL-1136,NHC-1136,Oleochemicals / Lubricants,19700.0,Quoted,39,,2024-05-27
+DEAL-1070,NHC-1070,Organic Chemicals / Binders,13800.0,Contacted,20,,2024-06-03
+DEAL-1093,NHC-1093,Organic Chemicals / Binders,10600.0,Quoted,33,,2024-06-04
+DEAL-1217,NHC-1217,Organic Chemicals / Binders,64700.0,Closed Lost,1,0.0,2024-06-07
+DEAL-1071,NHC-1071,Oleochemicals / Lubricants,39400.0,Quoted,41,,2024-06-07
+DEAL-1061,NHC-1061,Film Coating Excipients,41000.0,Negotiation,63,,2024-06-08
+DEAL-1166,NHC-1166,Organic Chemicals / Binders,11100.0,Contacted,18,,2024-06-09
+DEAL-1100,NHC-1100,Film Coating Excipients,66900.0,Quoted,36,,2024-06-10
+DEAL-1113,NHC-1113,Film Coating Excipients,52100.0,Contacted,21,,2024-06-11
+DEAL-1101,NHC-1101,Mixed Excipient Bundle,24300.0,Closed Lost,1,0.0,2024-06-12
+DEAL-1048,NHC-1048,Organic Chemicals / Binders,31900.0,Closed Lost,0,0.0,2024-06-14
+DEAL-1218,NHC-1218,Organic Chemicals / Binders,28400.0,Negotiation,59,,2024-06-15
+DEAL-1043,NHC-1043,Mixed Excipient Bundle,26200.0,Quoted,37,,2024-06-16
+DEAL-1078,NHC-1078,Organic Chemicals / Binders,12800.0,Contacted,30,,2024-06-19
+DEAL-1151,NHC-1151,Film Coating Excipients,36700.0,Prospect,11,,2024-06-21
+DEAL-1172,NHC-1172,Mixed Excipient Bundle,22700.0,Quoted,45,,2024-06-22
+DEAL-1197,NHC-1197,Oleochemicals / Lubricants,27300.0,Contacted,23,,2024-06-27
+DEAL-1206,NHC-1206,Organic Chemicals / Binders,77400.0,Negotiation,66,,2024-06-30
+DEAL-1068,NHC-1068,Organic Chemicals / Binders,40700.0,Contacted,27,,2024-07-01
+DEAL-1108,NHC-1108,Film Coating Excipients,12700.0,Contacted,30,,2024-07-01
+DEAL-1015,NHC-1015,Organic Chemicals / Binders,40300.0,Prospect,11,,2024-07-08
+DEAL-1082,NHC-1082,Oleochemicals / Lubricants,12800.0,Prospect,18,,2024-07-09
+DEAL-1123,NHC-1123,Film Coating Excipients,34700.0,Quoted,39,,2024-07-10
+DEAL-1144,NHC-1144,Oleochemicals / Lubricants,10200.0,Closed Lost,0,0.0,2024-07-10
+DEAL-1056,NHC-1056,Mixed Excipient Bundle,11400.0,Quoted,41,,2024-07-12
+DEAL-1058,NHC-1058,Oleochemicals / Lubricants,23600.0,Closed Won,100,1.0,2024-07-13
+DEAL-1006,NHC-1006,Film Coating Excipients,19100.0,Quoted,41,,2024-07-14
+DEAL-1138,NHC-1138,Organic Chemicals / Binders,11300.0,Quoted,39,,2024-07-14
+DEAL-1044,NHC-1044,Organic Chemicals / Binders,12200.0,Quoted,38,,2024-07-17
+DEAL-1208,NHC-1208,Film Coating Excipients,40700.0,Contacted,16,,2024-07-18
+DEAL-1029,NHC-1029,Organic Chemicals / Binders,10600.0,Prospect,12,,2024-07-21
+DEAL-1134,NHC-1134,Organic Chemicals / Binders,46700.0,Contacted,15,,2024-07-22
+DEAL-1090,NHC-1090,Film Coating Excipients,9400.0,Negotiation,68,,2024-07-22
+DEAL-1126,NHC-1126,Oleochemicals / Lubricants,6200.0,Negotiation,59,,2024-07-22
+DEAL-1057,NHC-1057,Film Coating Excipients,11400.0,Prospect,3,,2024-07-24
+DEAL-1145,NHC-1145,Oleochemicals / Lubricants,20800.0,Closed Lost,3,0.0,2024-07-25
+DEAL-1186,NHC-1186,Mixed Excipient Bundle,35500.0,Prospect,15,,2024-07-26
+DEAL-1180,NHC-1180,Organic Chemicals / Binders,15600.0,Contacted,29,,2024-07-26
+DEAL-1195,NHC-1195,Organic Chemicals / Binders,22700.0,Prospect,18,,2024-07-26
+DEAL-1023,NHC-1023,Oleochemicals / Lubricants,47700.0,Quoted,38,,2024-07-28
+DEAL-1182,NHC-1182,Oleochemicals / Lubricants,28500.0,Contacted,19,,2024-07-28
+DEAL-1132,NHC-1132,Mixed Excipient Bundle,18500.0,Quoted,43,,2024-07-28
+DEAL-1156,NHC-1156,Film Coating Excipients,13500.0,Closed Won,100,1.0,2024-07-30
+DEAL-1034,NHC-1034,Oleochemicals / Lubricants,19500.0,Prospect,9,,2024-08-01
+DEAL-1081,NHC-1081,Organic Chemicals / Binders,16100.0,Negotiation,58,,2024-08-05
+DEAL-1028,NHC-1028,Oleochemicals / Lubricants,25400.0,Quoted,40,,2024-08-15
+DEAL-1242,NHC-1242,Organic Chemicals / Binders,26800.0,Closed Lost,8,0.0,2024-08-17
+DEAL-1084,NHC-1084,Film Coating Excipients,15300.0,Negotiation,69,,2024-08-20
+DEAL-1091,NHC-1091,Oleochemicals / Lubricants,48700.0,Contacted,15,,2024-08-20
+DEAL-1223,NHC-1223,Organic Chemicals / Binders,13300.0,Prospect,2,,2024-08-20
+DEAL-1119,NHC-1119,Mixed Excipient Bundle,12900.0,Contacted,16,,2024-08-22
+DEAL-1246,NHC-1246,Film Coating Excipients,71500.0,Closed Won,92,1.0,2024-08-22
+DEAL-1112,NHC-1112,Mixed Excipient Bundle,41100.0,Contacted,16,,2024-08-30
+DEAL-1153,NHC-1153,Organic Chemicals / Binders,44900.0,Quoted,33,,2024-08-31
+DEAL-1066,NHC-1066,Film Coating Excipients,17600.0,Prospect,3,,2024-09-02
+DEAL-1173,NHC-1173,Film Coating Excipients,16700.0,Closed Lost,6,0.0,2024-09-03
+DEAL-1178,NHC-1178,Oleochemicals / Lubricants,21400.0,Prospect,13,,2024-09-04
+DEAL-1163,NHC-1163,Oleochemicals / Lubricants,57200.0,Closed Lost,7,0.0,2024-09-05
+DEAL-1038,NHC-1038,Film Coating Excipients,11000.0,Contacted,21,,2024-09-09
+DEAL-1106,NHC-1106,Organic Chemicals / Binders,17500.0,Negotiation,70,,2024-09-10
+DEAL-1097,NHC-1097,Mixed Excipient Bundle,7400.0,Negotiation,58,,2024-09-10
+DEAL-1065,NHC-1065,Film Coating Excipients,11900.0,Closed Won,100,1.0,2024-09-12
+DEAL-1149,NHC-1149,Oleochemicals / Lubricants,21200.0,Quoted,46,,2024-09-13
+DEAL-1085,NHC-1085,Oleochemicals / Lubricants,14400.0,Quoted,43,,2024-09-14
+DEAL-1233,NHC-1233,Organic Chemicals / Binders,15900.0,Prospect,6,,2024-09-16
+DEAL-1004,NHC-1004,Mixed Excipient Bundle,82900.0,Quoted,42,,2024-09-16
+DEAL-1230,NHC-1230,Oleochemicals / Lubricants,12200.0,Contacted,21,,2024-09-17
+DEAL-1183,NHC-1183,Film Coating Excipients,28800.0,Prospect,4,,2024-09-18
+DEAL-1176,NHC-1176,Organic Chemicals / Binders,19700.0,Negotiation,68,,2024-09-18
+DEAL-1008,NHC-1008,Organic Chemicals / Binders,7300.0,Contacted,19,,2024-09-21
+DEAL-1194,NHC-1194,Oleochemicals / Lubricants,37200.0,Prospect,18,,2024-09-24
+DEAL-1174,NHC-1174,Organic Chemicals / Binders,48700.0,Quoted,39,,2024-09-27
+DEAL-1002,NHC-1002,Organic Chemicals / Binders,92900.0,Negotiation,61,,2024-09-28
+DEAL-1185,NHC-1185,Organic Chemicals / Binders,36200.0,Prospect,3,,2024-09-28
+DEAL-1018,NHC-1018,Film Coating Excipients,27600.0,Contacted,18,,2024-09-28
